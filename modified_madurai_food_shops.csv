@@ -1,0 +1,1135 @@
+Vendor_ID,Name,Type,Area,City,Avg_Rating,Total_Rating,Item_ID,Item_Name,Category,Price,Food_Type,Avg_Rating.1,Total_Order
+C3001,Brew & Bite Café ☕,Café,Thirumangalam,Madurai,4,4001,7001,Espresso,Café Menu,80,Veg,4,7501
+C3001,Brew & Bite Café ☕,Café,Thirumangalam,Madurai,4,4001,7002,Cappuccino,Café Menu,120,Veg,4,7502
+C3001,Brew & Bite Café ☕,Café,Thirumangalam,Madurai,4,4001,7003,Latte,Café Menu,130,Veg,4,7503
+C3001,Brew & Bite Café ☕,Café,Thirumangalam,Madurai,4,4001,7004,Americano,Café Menu,100,Veg,4,7504
+C3001,Brew & Bite Café ☕,Café,Thirumangalam,Madurai,4,4001,7005,Filter Coffee,Café Menu,50,Veg,4,7505
+C3001,Brew & Bite Café ☕,Café,Thirumangalam,Madurai,4,4001,7006,Masala Chai,Café Menu,60,Veg,4,7506
+C3001,Brew & Bite Café ☕,Café,Thirumangalam,Madurai,4,4001,7007,Green Tea,Café Menu,70,Veg,4,7507
+C3001,Brew & Bite Café ☕,Café,Thirumangalam,Madurai,4,4001,7008,Cold Brew,Café Menu,140,Veg,4,7508
+C3001,Brew & Bite Café ☕,Café,Thirumangalam,Madurai,4,4001,7009,Iced Latte,Café Menu,150,Veg,4,7509
+C3001,Brew & Bite Café ☕,Café,Thirumangalam,Madurai,4,4001,7010,Hot Chocolate,Café Menu,160,Veg,4,7510
+C3001,Brew & Bite Café ☕,Café,Thirumangalam,Madurai,4,4001,7011,Blueberry Muffin,Café Menu,90,Veg,4,7511
+C3001,Brew & Bite Café ☕,Café,Thirumangalam,Madurai,4,4001,7012,Choco Lava Cake,Café Menu,120,Veg,4,7512
+C3002,Madurai Mocha House 🍫,Café,Anna Nagar,Madurai,4,4002,7013,Espresso,Café Menu,80,Veg,4,7513
+C3002,Madurai Mocha House 🍫,Café,Anna Nagar,Madurai,4,4002,7014,Cappuccino,Café Menu,120,Veg,4,7514
+C3002,Madurai Mocha House 🍫,Café,Anna Nagar,Madurai,4,4002,7015,Latte,Café Menu,130,Veg,4,7515
+C3002,Madurai Mocha House 🍫,Café,Anna Nagar,Madurai,4,4002,7016,Americano,Café Menu,100,Veg,4,7516
+C3002,Madurai Mocha House 🍫,Café,Anna Nagar,Madurai,4,4002,7017,Filter Coffee,Café Menu,50,Veg,4,7517
+C3002,Madurai Mocha House 🍫,Café,Anna Nagar,Madurai,4,4002,7018,Masala Chai,Café Menu,60,Veg,4,7518
+C3002,Madurai Mocha House 🍫,Café,Anna Nagar,Madurai,4,4002,7019,Green Tea,Café Menu,70,Veg,4,7519
+C3002,Madurai Mocha House 🍫,Café,Anna Nagar,Madurai,4,4002,7020,Cold Brew,Café Menu,140,Veg,4,7520
+C3002,Madurai Mocha House 🍫,Café,Anna Nagar,Madurai,4,4002,7021,Iced Latte,Café Menu,150,Veg,4,7521
+C3002,Madurai Mocha House 🍫,Café,Anna Nagar,Madurai,4,4002,7022,Hot Chocolate,Café Menu,160,Veg,4,7522
+C3002,Madurai Mocha House 🍫,Café,Anna Nagar,Madurai,4,4002,7023,Blueberry Muffin,Café Menu,90,Veg,4,7523
+C3002,Madurai Mocha House 🍫,Café,Anna Nagar,Madurai,4,4002,7024,Choco Lava Cake,Café Menu,120,Veg,4,7524
+C3003,Espresso Hub ☕,Café,KK Nagar,Madurai,4,4003,7025,Espresso,Café Menu,80,Veg,4,7525
+C3003,Espresso Hub ☕,Café,KK Nagar,Madurai,4,4003,7026,Cappuccino,Café Menu,120,Veg,4,7526
+C3003,Espresso Hub ☕,Café,KK Nagar,Madurai,4,4003,7027,Latte,Café Menu,130,Veg,4,7527
+C3003,Espresso Hub ☕,Café,KK Nagar,Madurai,4,4003,7028,Americano,Café Menu,100,Veg,4,7528
+C3003,Espresso Hub ☕,Café,KK Nagar,Madurai,4,4003,7029,Filter Coffee,Café Menu,50,Veg,4,7529
+C3003,Espresso Hub ☕,Café,KK Nagar,Madurai,4,4003,7030,Masala Chai,Café Menu,60,Veg,4,7530
+C3003,Espresso Hub ☕,Café,KK Nagar,Madurai,4,4003,7031,Green Tea,Café Menu,70,Veg,4,7531
+C3003,Espresso Hub ☕,Café,KK Nagar,Madurai,4,4003,7032,Cold Brew,Café Menu,140,Veg,4,7532
+C3003,Espresso Hub ☕,Café,KK Nagar,Madurai,4,4003,7033,Iced Latte,Café Menu,150,Veg,4,7533
+C3003,Espresso Hub ☕,Café,KK Nagar,Madurai,4,4003,7034,Hot Chocolate,Café Menu,160,Veg,4,7534
+C3003,Espresso Hub ☕,Café,KK Nagar,Madurai,4,4003,7035,Blueberry Muffin,Café Menu,90,Veg,4,7535
+C3003,Espresso Hub ☕,Café,KK Nagar,Madurai,4,4003,7036,Choco Lava Cake,Café Menu,120,Veg,4,7536
+C3004,The Bean Roastery 🫘,Café,Periyar,Madurai,4,4004,7037,Espresso,Café Menu,80,Veg,4,7537
+C3004,The Bean Roastery 🫘,Café,Periyar,Madurai,4,4004,7038,Cappuccino,Café Menu,120,Veg,4,7538
+C3004,The Bean Roastery 🫘,Café,Periyar,Madurai,4,4004,7039,Latte,Café Menu,130,Veg,4,7539
+C3004,The Bean Roastery 🫘,Café,Periyar,Madurai,4,4004,7040,Americano,Café Menu,100,Veg,4,7540
+C3004,The Bean Roastery 🫘,Café,Periyar,Madurai,4,4004,7041,Filter Coffee,Café Menu,50,Veg,4,7541
+C3004,The Bean Roastery 🫘,Café,Periyar,Madurai,4,4004,7042,Masala Chai,Café Menu,60,Veg,4,7542
+C3004,The Bean Roastery 🫘,Café,Periyar,Madurai,4,4004,7043,Green Tea,Café Menu,70,Veg,4,7543
+C3004,The Bean Roastery 🫘,Café,Periyar,Madurai,4,4004,7044,Cold Brew,Café Menu,140,Veg,4,7544
+C3004,The Bean Roastery 🫘,Café,Periyar,Madurai,4,4004,7045,Iced Latte,Café Menu,150,Veg,4,7545
+C3004,The Bean Roastery 🫘,Café,Periyar,Madurai,4,4004,7046,Hot Chocolate,Café Menu,160,Veg,4,7546
+C3004,The Bean Roastery 🫘,Café,Periyar,Madurai,4,4004,7047,Blueberry Muffin,Café Menu,90,Veg,4,7547
+C3004,The Bean Roastery 🫘,Café,Periyar,Madurai,4,4004,7048,Choco Lava Cake,Café Menu,120,Veg,4,7548
+C3005,Latte Love Café ❤️,Café,Simmakkal,Madurai,4,4005,7049,Espresso,Café Menu,80,Veg,4,7549
+C3005,Latte Love Café ❤️,Café,Simmakkal,Madurai,4,4005,7050,Cappuccino,Café Menu,120,Veg,4,7550
+C3005,Latte Love Café ❤️,Café,Simmakkal,Madurai,4,4005,7051,Latte,Café Menu,130,Veg,4,7551
+C3005,Latte Love Café ❤️,Café,Simmakkal,Madurai,4,4005,7052,Americano,Café Menu,100,Veg,4,7552
+C3005,Latte Love Café ❤️,Café,Simmakkal,Madurai,4,4005,7053,Filter Coffee,Café Menu,50,Veg,4,7553
+C3005,Latte Love Café ❤️,Café,Simmakkal,Madurai,4,4005,7054,Masala Chai,Café Menu,60,Veg,4,7554
+C3005,Latte Love Café ❤️,Café,Simmakkal,Madurai,4,4005,7055,Green Tea,Café Menu,70,Veg,4,7555
+C3005,Latte Love Café ❤️,Café,Simmakkal,Madurai,4,4005,7056,Cold Brew,Café Menu,140,Veg,4,7556
+C3005,Latte Love Café ❤️,Café,Simmakkal,Madurai,4,4005,7057,Iced Latte,Café Menu,150,Veg,4,7557
+C3005,Latte Love Café ❤️,Café,Simmakkal,Madurai,4,4005,7058,Hot Chocolate,Café Menu,160,Veg,4,7558
+C3005,Latte Love Café ❤️,Café,Simmakkal,Madurai,4,4005,7059,Blueberry Muffin,Café Menu,90,Veg,4,7559
+C3005,Latte Love Café ❤️,Café,Simmakkal,Madurai,4,4005,7060,Choco Lava Cake,Café Menu,120,Veg,4,7560
+C3006,Caffeine Corner ☕,Café,Goripalayam,Madurai,4,4006,7061,Espresso,Café Menu,80,Veg,4,7561
+C3006,Caffeine Corner ☕,Café,Goripalayam,Madurai,4,4006,7062,Cappuccino,Café Menu,120,Veg,4,7562
+C3006,Caffeine Corner ☕,Café,Goripalayam,Madurai,4,4006,7063,Latte,Café Menu,130,Veg,4,7563
+C3006,Caffeine Corner ☕,Café,Goripalayam,Madurai,4,4006,7064,Americano,Café Menu,100,Veg,4,7564
+C3006,Caffeine Corner ☕,Café,Goripalayam,Madurai,4,4006,7065,Filter Coffee,Café Menu,50,Veg,4,7565
+C3006,Caffeine Corner ☕,Café,Goripalayam,Madurai,4,4006,7066,Masala Chai,Café Menu,60,Veg,4,7566
+C3006,Caffeine Corner ☕,Café,Goripalayam,Madurai,4,4006,7067,Green Tea,Café Menu,70,Veg,4,7567
+C3006,Caffeine Corner ☕,Café,Goripalayam,Madurai,4,4006,7068,Cold Brew,Café Menu,140,Veg,4,7568
+C3006,Caffeine Corner ☕,Café,Goripalayam,Madurai,4,4006,7069,Iced Latte,Café Menu,150,Veg,4,7569
+C3006,Caffeine Corner ☕,Café,Goripalayam,Madurai,4,4006,7070,Hot Chocolate,Café Menu,160,Veg,4,7570
+C3006,Caffeine Corner ☕,Café,Goripalayam,Madurai,4,4006,7071,Blueberry Muffin,Café Menu,90,Veg,4,7571
+C3006,Caffeine Corner ☕,Café,Goripalayam,Madurai,4,4006,7072,Choco Lava Cake,Café Menu,120,Veg,4,7572
+C3007,Rustic Brews Café 🌿,Café,Tallakulam,Madurai,4,4007,7073,Espresso,Café Menu,80,Veg,4,7573
+C3007,Rustic Brews Café 🌿,Café,Tallakulam,Madurai,4,4007,7074,Cappuccino,Café Menu,120,Veg,4,7574
+C3007,Rustic Brews Café 🌿,Café,Tallakulam,Madurai,4,4007,7075,Latte,Café Menu,130,Veg,4,7575
+C3007,Rustic Brews Café 🌿,Café,Tallakulam,Madurai,4,4007,7076,Americano,Café Menu,100,Veg,4,7576
+C3007,Rustic Brews Café 🌿,Café,Tallakulam,Madurai,4,4007,7077,Filter Coffee,Café Menu,50,Veg,4,7577
+C3007,Rustic Brews Café 🌿,Café,Tallakulam,Madurai,4,4007,7078,Masala Chai,Café Menu,60,Veg,4,7578
+C3007,Rustic Brews Café 🌿,Café,Tallakulam,Madurai,4,4007,7079,Green Tea,Café Menu,70,Veg,4,7579
+C3007,Rustic Brews Café 🌿,Café,Tallakulam,Madurai,4,4007,7080,Cold Brew,Café Menu,140,Veg,4,7580
+C3007,Rustic Brews Café 🌿,Café,Tallakulam,Madurai,4,4007,7081,Iced Latte,Café Menu,150,Veg,4,7581
+C3007,Rustic Brews Café 🌿,Café,Tallakulam,Madurai,4,4007,7082,Hot Chocolate,Café Menu,160,Veg,4,7582
+C3007,Rustic Brews Café 🌿,Café,Tallakulam,Madurai,4,4007,7083,Blueberry Muffin,Café Menu,90,Veg,4,7583
+C3007,Rustic Brews Café 🌿,Café,Tallakulam,Madurai,4,4007,7084,Choco Lava Cake,Café Menu,120,Veg,4,7584
+C3008,Filter Kaapi Spot 🥤,Café,Villapuram,Madurai,4,4008,7085,Espresso,Café Menu,80,Veg,4,7585
+C3008,Filter Kaapi Spot 🥤,Café,Villapuram,Madurai,4,4008,7086,Cappuccino,Café Menu,120,Veg,4,7586
+C3008,Filter Kaapi Spot 🥤,Café,Villapuram,Madurai,4,4008,7087,Latte,Café Menu,130,Veg,4,7587
+C3008,Filter Kaapi Spot 🥤,Café,Villapuram,Madurai,4,4008,7088,Americano,Café Menu,100,Veg,4,7588
+C3008,Filter Kaapi Spot 🥤,Café,Villapuram,Madurai,4,4008,7089,Filter Coffee,Café Menu,50,Veg,4,7589
+C3008,Filter Kaapi Spot 🥤,Café,Villapuram,Madurai,4,4008,7090,Masala Chai,Café Menu,60,Veg,4,7590
+C3008,Filter Kaapi Spot 🥤,Café,Villapuram,Madurai,4,4008,7091,Green Tea,Café Menu,70,Veg,4,7591
+C3008,Filter Kaapi Spot 🥤,Café,Villapuram,Madurai,4,4008,7092,Cold Brew,Café Menu,140,Veg,4,7592
+C3008,Filter Kaapi Spot 🥤,Café,Villapuram,Madurai,4,4008,7093,Iced Latte,Café Menu,150,Veg,4,7593
+C3008,Filter Kaapi Spot 🥤,Café,Villapuram,Madurai,4,4008,7094,Hot Chocolate,Café Menu,160,Veg,4,7594
+C3008,Filter Kaapi Spot 🥤,Café,Villapuram,Madurai,4,4008,7095,Blueberry Muffin,Café Menu,90,Veg,4,7595
+C3008,Filter Kaapi Spot 🥤,Café,Villapuram,Madurai,4,4008,7096,Choco Lava Cake,Café Menu,120,Veg,4,7596
+C3009,The Cozy Cup Café 🍵,Café,Thiruparankundram,Madurai,4,4009,7097,Espresso,Café Menu,80,Veg,4,7597
+C3009,The Cozy Cup Café 🍵,Café,Thiruparankundram,Madurai,4,4009,7098,Cappuccino,Café Menu,120,Veg,4,7598
+C3009,The Cozy Cup Café 🍵,Café,Thiruparankundram,Madurai,4,4009,7099,Latte,Café Menu,130,Veg,4,7599
+C3009,The Cozy Cup Café 🍵,Café,Thiruparankundram,Madurai,4,4009,7100,Americano,Café Menu,100,Veg,4,7600
+C3009,The Cozy Cup Café 🍵,Café,Thiruparankundram,Madurai,4,4009,7101,Filter Coffee,Café Menu,50,Veg,4,7601
+C3009,The Cozy Cup Café 🍵,Café,Thiruparankundram,Madurai,4,4009,7102,Masala Chai,Café Menu,60,Veg,4,7602
+C3009,The Cozy Cup Café 🍵,Café,Thiruparankundram,Madurai,4,4009,7103,Green Tea,Café Menu,70,Veg,4,7603
+C3009,The Cozy Cup Café 🍵,Café,Thiruparankundram,Madurai,4,4009,7104,Cold Brew,Café Menu,140,Veg,4,7604
+C3009,The Cozy Cup Café 🍵,Café,Thiruparankundram,Madurai,4,4009,7105,Iced Latte,Café Menu,150,Veg,4,7605
+C3009,The Cozy Cup Café 🍵,Café,Thiruparankundram,Madurai,4,4009,7106,Hot Chocolate,Café Menu,160,Veg,4,7606
+C3009,The Cozy Cup Café 🍵,Café,Thiruparankundram,Madurai,4,4009,7107,Blueberry Muffin,Café Menu,90,Veg,4,7607
+C3009,The Cozy Cup Café 🍵,Café,Thiruparankundram,Madurai,4,4009,7108,Choco Lava Cake,Café Menu,120,Veg,4,7608
+C3010,Frappe Nation 🍹,Café,Mattuthavani,Madurai,4,4010,7109,Espresso,Café Menu,80,Veg,4,7609
+C3010,Frappe Nation 🍹,Café,Mattuthavani,Madurai,4,4010,7110,Cappuccino,Café Menu,120,Veg,4,7610
+C3010,Frappe Nation 🍹,Café,Mattuthavani,Madurai,4,4010,7111,Latte,Café Menu,130,Veg,4,7611
+C3010,Frappe Nation 🍹,Café,Mattuthavani,Madurai,4,4010,7112,Americano,Café Menu,100,Veg,4,7612
+C3010,Frappe Nation 🍹,Café,Mattuthavani,Madurai,4,4010,7113,Filter Coffee,Café Menu,50,Veg,4,7613
+C3010,Frappe Nation 🍹,Café,Mattuthavani,Madurai,4,4010,7114,Masala Chai,Café Menu,60,Veg,4,7614
+C3010,Frappe Nation 🍹,Café,Mattuthavani,Madurai,4,4010,7115,Green Tea,Café Menu,70,Veg,4,7615
+C3010,Frappe Nation 🍹,Café,Mattuthavani,Madurai,4,4010,7116,Cold Brew,Café Menu,140,Veg,4,7616
+C3010,Frappe Nation 🍹,Café,Mattuthavani,Madurai,4,4010,7117,Iced Latte,Café Menu,150,Veg,4,7617
+C3010,Frappe Nation 🍹,Café,Mattuthavani,Madurai,4,4010,7118,Hot Chocolate,Café Menu,160,Veg,4,7618
+C3010,Frappe Nation 🍹,Café,Mattuthavani,Madurai,4,4010,7119,Blueberry Muffin,Café Menu,90,Veg,4,7619
+C3010,Frappe Nation 🍹,Café,Mattuthavani,Madurai,4,4010,7120,Choco Lava Cake,Café Menu,120,Veg,4,7620
+C3011,Madurai Chai Lounge 🍵,Café,Koodal Nagar,Madurai,4,4011,7121,Espresso,Café Menu,80,Veg,4,7621
+C3011,Madurai Chai Lounge 🍵,Café,Koodal Nagar,Madurai,4,4011,7122,Cappuccino,Café Menu,120,Veg,4,7622
+C3011,Madurai Chai Lounge 🍵,Café,Koodal Nagar,Madurai,4,4011,7123,Latte,Café Menu,130,Veg,4,7623
+C3011,Madurai Chai Lounge 🍵,Café,Koodal Nagar,Madurai,4,4011,7124,Americano,Café Menu,100,Veg,4,7624
+C3011,Madurai Chai Lounge 🍵,Café,Koodal Nagar,Madurai,4,4011,7125,Filter Coffee,Café Menu,50,Veg,4,7625
+C3011,Madurai Chai Lounge 🍵,Café,Koodal Nagar,Madurai,4,4011,7126,Masala Chai,Café Menu,60,Veg,4,7626
+C3011,Madurai Chai Lounge 🍵,Café,Koodal Nagar,Madurai,4,4011,7127,Green Tea,Café Menu,70,Veg,4,7627
+C3011,Madurai Chai Lounge 🍵,Café,Koodal Nagar,Madurai,4,4011,7128,Cold Brew,Café Menu,140,Veg,4,7628
+C3011,Madurai Chai Lounge 🍵,Café,Koodal Nagar,Madurai,4,4011,7129,Iced Latte,Café Menu,150,Veg,4,7629
+C3011,Madurai Chai Lounge 🍵,Café,Koodal Nagar,Madurai,4,4011,7130,Hot Chocolate,Café Menu,160,Veg,4,7630
+C3011,Madurai Chai Lounge 🍵,Café,Koodal Nagar,Madurai,4,4011,7131,Blueberry Muffin,Café Menu,90,Veg,4,7631
+C3011,Madurai Chai Lounge 🍵,Café,Koodal Nagar,Madurai,4,4011,7132,Choco Lava Cake,Café Menu,120,Veg,4,7632
+C3012,Sugar & Spice Café 🍰,Café,Palanganatham,Madurai,4,4012,7133,Espresso,Café Menu,80,Veg,4,7633
+C3012,Sugar & Spice Café 🍰,Café,Palanganatham,Madurai,4,4012,7134,Cappuccino,Café Menu,120,Veg,4,7634
+C3012,Sugar & Spice Café 🍰,Café,Palanganatham,Madurai,4,4012,7135,Latte,Café Menu,130,Veg,4,7635
+C3012,Sugar & Spice Café 🍰,Café,Palanganatham,Madurai,4,4012,7136,Americano,Café Menu,100,Veg,4,7636
+C3012,Sugar & Spice Café 🍰,Café,Palanganatham,Madurai,4,4012,7137,Filter Coffee,Café Menu,50,Veg,4,7637
+C3012,Sugar & Spice Café 🍰,Café,Palanganatham,Madurai,4,4012,7138,Masala Chai,Café Menu,60,Veg,4,7638
+C3012,Sugar & Spice Café 🍰,Café,Palanganatham,Madurai,4,4012,7139,Green Tea,Café Menu,70,Veg,4,7639
+C3012,Sugar & Spice Café 🍰,Café,Palanganatham,Madurai,4,4012,7140,Cold Brew,Café Menu,140,Veg,4,7640
+C3012,Sugar & Spice Café 🍰,Café,Palanganatham,Madurai,4,4012,7141,Iced Latte,Café Menu,150,Veg,4,7641
+C3012,Sugar & Spice Café 🍰,Café,Palanganatham,Madurai,4,4012,7142,Hot Chocolate,Café Menu,160,Veg,4,7642
+C3012,Sugar & Spice Café 🍰,Café,Palanganatham,Madurai,4,4012,7143,Blueberry Muffin,Café Menu,90,Veg,4,7643
+C3012,Sugar & Spice Café 🍰,Café,Palanganatham,Madurai,4,4012,7144,Choco Lava Cake,Café Menu,120,Veg,4,7644
+C3013,Choco Bliss Café 🍫,Café,Sellur,Madurai,4,4013,7145,Espresso,Café Menu,80,Veg,4,7645
+C3013,Choco Bliss Café 🍫,Café,Sellur,Madurai,4,4013,7146,Cappuccino,Café Menu,120,Veg,4,7646
+C3013,Choco Bliss Café 🍫,Café,Sellur,Madurai,4,4013,7147,Latte,Café Menu,130,Veg,4,7647
+C3013,Choco Bliss Café 🍫,Café,Sellur,Madurai,4,4013,7148,Americano,Café Menu,100,Veg,4,7648
+C3013,Choco Bliss Café 🍫,Café,Sellur,Madurai,4,4013,7149,Filter Coffee,Café Menu,50,Veg,4,7649
+C3013,Choco Bliss Café 🍫,Café,Sellur,Madurai,4,4013,7150,Masala Chai,Café Menu,60,Veg,4,7650
+C3013,Choco Bliss Café 🍫,Café,Sellur,Madurai,4,4013,7151,Green Tea,Café Menu,70,Veg,4,7651
+C3013,Choco Bliss Café 🍫,Café,Sellur,Madurai,4,4013,7152,Cold Brew,Café Menu,140,Veg,4,7652
+C3013,Choco Bliss Café 🍫,Café,Sellur,Madurai,4,4013,7153,Iced Latte,Café Menu,150,Veg,4,7653
+C3013,Choco Bliss Café 🍫,Café,Sellur,Madurai,4,4013,7154,Hot Chocolate,Café Menu,160,Veg,4,7654
+C3013,Choco Bliss Café 🍫,Café,Sellur,Madurai,4,4013,7155,Blueberry Muffin,Café Menu,90,Veg,4,7655
+C3013,Choco Bliss Café 🍫,Café,Sellur,Madurai,4,4013,7156,Choco Lava Cake,Café Menu,120,Veg,4,7656
+C3014,Urban Brews ☕,Café,Avaniyapuram,Madurai,4,4014,7157,Espresso,Café Menu,80,Veg,4,7657
+C3014,Urban Brews ☕,Café,Avaniyapuram,Madurai,4,4014,7158,Cappuccino,Café Menu,120,Veg,4,7658
+C3014,Urban Brews ☕,Café,Avaniyapuram,Madurai,4,4014,7159,Latte,Café Menu,130,Veg,4,7659
+C3014,Urban Brews ☕,Café,Avaniyapuram,Madurai,4,4014,7160,Americano,Café Menu,100,Veg,4,7660
+C3014,Urban Brews ☕,Café,Avaniyapuram,Madurai,4,4014,7161,Filter Coffee,Café Menu,50,Veg,4,7661
+C3014,Urban Brews ☕,Café,Avaniyapuram,Madurai,4,4014,7162,Masala Chai,Café Menu,60,Veg,4,7662
+C3014,Urban Brews ☕,Café,Avaniyapuram,Madurai,4,4014,7163,Green Tea,Café Menu,70,Veg,4,7663
+C3014,Urban Brews ☕,Café,Avaniyapuram,Madurai,4,4014,7164,Cold Brew,Café Menu,140,Veg,4,7664
+C3014,Urban Brews ☕,Café,Avaniyapuram,Madurai,4,4014,7165,Iced Latte,Café Menu,150,Veg,4,7665
+C3014,Urban Brews ☕,Café,Avaniyapuram,Madurai,4,4014,7166,Hot Chocolate,Café Menu,160,Veg,4,7666
+C3014,Urban Brews ☕,Café,Avaniyapuram,Madurai,4,4014,7167,Blueberry Muffin,Café Menu,90,Veg,4,7667
+C3014,Urban Brews ☕,Café,Avaniyapuram,Madurai,4,4014,7168,Choco Lava Cake,Café Menu,120,Veg,4,7668
+C3015,The Tea Haven 🍵,Café,Chinthamani,Madurai,4,4015,7169,Espresso,Café Menu,80,Veg,4,7669
+C3015,The Tea Haven 🍵,Café,Chinthamani,Madurai,4,4015,7170,Cappuccino,Café Menu,120,Veg,4,7670
+C3015,The Tea Haven 🍵,Café,Chinthamani,Madurai,4,4015,7171,Latte,Café Menu,130,Veg,4,7671
+C3015,The Tea Haven 🍵,Café,Chinthamani,Madurai,4,4015,7172,Americano,Café Menu,100,Veg,4,7672
+C3015,The Tea Haven 🍵,Café,Chinthamani,Madurai,4,4015,7173,Filter Coffee,Café Menu,50,Veg,4,7673
+C3015,The Tea Haven 🍵,Café,Chinthamani,Madurai,4,4015,7174,Masala Chai,Café Menu,60,Veg,4,7674
+C3015,The Tea Haven 🍵,Café,Chinthamani,Madurai,4,4015,7175,Green Tea,Café Menu,70,Veg,4,7675
+C3015,The Tea Haven 🍵,Café,Chinthamani,Madurai,4,4015,7176,Cold Brew,Café Menu,140,Veg,4,7676
+C3015,The Tea Haven 🍵,Café,Chinthamani,Madurai,4,4015,7177,Iced Latte,Café Menu,150,Veg,4,7677
+C3015,The Tea Haven 🍵,Café,Chinthamani,Madurai,4,4015,7178,Hot Chocolate,Café Menu,160,Veg,4,7678
+C3015,The Tea Haven 🍵,Café,Chinthamani,Madurai,4,4015,7179,Blueberry Muffin,Café Menu,90,Veg,4,7679
+C3015,The Tea Haven 🍵,Café,Chinthamani,Madurai,4,4015,7180,Choco Lava Cake,Café Menu,120,Veg,4,7680
+C3016,Caramel Latte House ☕,Café,Arappalayam,Madurai,4,4016,7181,Espresso,Café Menu,80,Veg,4,7681
+C3016,Caramel Latte House ☕,Café,Arappalayam,Madurai,4,4016,7182,Cappuccino,Café Menu,120,Veg,4,7682
+C3016,Caramel Latte House ☕,Café,Arappalayam,Madurai,4,4016,7183,Latte,Café Menu,130,Veg,4,7683
+C3016,Caramel Latte House ☕,Café,Arappalayam,Madurai,4,4016,7184,Americano,Café Menu,100,Veg,4,7684
+C3016,Caramel Latte House ☕,Café,Arappalayam,Madurai,4,4016,7185,Filter Coffee,Café Menu,50,Veg,4,7685
+C3016,Caramel Latte House ☕,Café,Arappalayam,Madurai,4,4016,7186,Masala Chai,Café Menu,60,Veg,4,7686
+C3016,Caramel Latte House ☕,Café,Arappalayam,Madurai,4,4016,7187,Green Tea,Café Menu,70,Veg,4,7687
+C3016,Caramel Latte House ☕,Café,Arappalayam,Madurai,4,4016,7188,Cold Brew,Café Menu,140,Veg,4,7688
+C3016,Caramel Latte House ☕,Café,Arappalayam,Madurai,4,4016,7189,Iced Latte,Café Menu,150,Veg,4,7689
+C3016,Caramel Latte House ☕,Café,Arappalayam,Madurai,4,4016,7190,Hot Chocolate,Café Menu,160,Veg,4,7690
+C3016,Caramel Latte House ☕,Café,Arappalayam,Madurai,4,4016,7191,Blueberry Muffin,Café Menu,90,Veg,4,7691
+C3016,Caramel Latte House ☕,Café,Arappalayam,Madurai,4,4016,7192,Choco Lava Cake,Café Menu,120,Veg,4,7692
+C3017,Java Jolt Café ⚡,Café,Kochadai,Madurai,4,4017,7193,Espresso,Café Menu,80,Veg,4,7693
+C3017,Java Jolt Café ⚡,Café,Kochadai,Madurai,4,4017,7194,Cappuccino,Café Menu,120,Veg,4,7694
+C3017,Java Jolt Café ⚡,Café,Kochadai,Madurai,4,4017,7195,Latte,Café Menu,130,Veg,4,7695
+C3017,Java Jolt Café ⚡,Café,Kochadai,Madurai,4,4017,7196,Americano,Café Menu,100,Veg,4,7696
+C3017,Java Jolt Café ⚡,Café,Kochadai,Madurai,4,4017,7197,Filter Coffee,Café Menu,50,Veg,4,7697
+C3017,Java Jolt Café ⚡,Café,Kochadai,Madurai,4,4017,7198,Masala Chai,Café Menu,60,Veg,4,7698
+C3017,Java Jolt Café ⚡,Café,Kochadai,Madurai,4,4017,7199,Green Tea,Café Menu,70,Veg,4,7699
+C3017,Java Jolt Café ⚡,Café,Kochadai,Madurai,4,4017,7200,Cold Brew,Café Menu,140,Veg,4,7700
+C3017,Java Jolt Café ⚡,Café,Kochadai,Madurai,4,4017,7201,Iced Latte,Café Menu,150,Veg,4,7701
+C3017,Java Jolt Café ⚡,Café,Kochadai,Madurai,4,4017,7202,Hot Chocolate,Café Menu,160,Veg,4,7702
+C3017,Java Jolt Café ⚡,Café,Kochadai,Madurai,4,4017,7203,Blueberry Muffin,Café Menu,90,Veg,4,7703
+C3017,Java Jolt Café ⚡,Café,Kochadai,Madurai,4,4017,7204,Choco Lava Cake,Café Menu,120,Veg,4,7704
+C3018,The Vintage Mug ☕,Café,Bye Pass Road,Madurai,4,4018,7205,Espresso,Café Menu,80,Veg,4,7705
+C3018,The Vintage Mug ☕,Café,Bye Pass Road,Madurai,4,4018,7206,Cappuccino,Café Menu,120,Veg,4,7706
+C3018,The Vintage Mug ☕,Café,Bye Pass Road,Madurai,4,4018,7207,Latte,Café Menu,130,Veg,4,7707
+C3018,The Vintage Mug ☕,Café,Bye Pass Road,Madurai,4,4018,7208,Americano,Café Menu,100,Veg,4,7708
+C3018,The Vintage Mug ☕,Café,Bye Pass Road,Madurai,4,4018,7209,Filter Coffee,Café Menu,50,Veg,4,7709
+C3018,The Vintage Mug ☕,Café,Bye Pass Road,Madurai,4,4018,7210,Masala Chai,Café Menu,60,Veg,4,7710
+C3018,The Vintage Mug ☕,Café,Bye Pass Road,Madurai,4,4018,7211,Green Tea,Café Menu,70,Veg,4,7711
+C3018,The Vintage Mug ☕,Café,Bye Pass Road,Madurai,4,4018,7212,Cold Brew,Café Menu,140,Veg,4,7712
+C3018,The Vintage Mug ☕,Café,Bye Pass Road,Madurai,4,4018,7213,Iced Latte,Café Menu,150,Veg,4,7713
+C3018,The Vintage Mug ☕,Café,Bye Pass Road,Madurai,4,4018,7214,Hot Chocolate,Café Menu,160,Veg,4,7714
+C3018,The Vintage Mug ☕,Café,Bye Pass Road,Madurai,4,4018,7215,Blueberry Muffin,Café Menu,90,Veg,4,7715
+C3018,The Vintage Mug ☕,Café,Bye Pass Road,Madurai,4,4018,7216,Choco Lava Cake,Café Menu,120,Veg,4,7716
+C3019,Midnight Brews 🌙,Café,Harveypatti,Madurai,4,4019,7217,Espresso,Café Menu,80,Veg,4,7717
+C3019,Midnight Brews 🌙,Café,Harveypatti,Madurai,4,4019,7218,Cappuccino,Café Menu,120,Veg,4,7718
+C3019,Midnight Brews 🌙,Café,Harveypatti,Madurai,4,4019,7219,Latte,Café Menu,130,Veg,4,7719
+C3019,Midnight Brews 🌙,Café,Harveypatti,Madurai,4,4019,7220,Americano,Café Menu,100,Veg,4,7720
+C3019,Midnight Brews 🌙,Café,Harveypatti,Madurai,4,4019,7221,Filter Coffee,Café Menu,50,Veg,4,7721
+C3019,Midnight Brews 🌙,Café,Harveypatti,Madurai,4,4019,7222,Masala Chai,Café Menu,60,Veg,4,7722
+C3019,Midnight Brews 🌙,Café,Harveypatti,Madurai,4,4019,7223,Green Tea,Café Menu,70,Veg,4,7723
+C3019,Midnight Brews 🌙,Café,Harveypatti,Madurai,4,4019,7224,Cold Brew,Café Menu,140,Veg,4,7724
+C3019,Midnight Brews 🌙,Café,Harveypatti,Madurai,4,4019,7225,Iced Latte,Café Menu,150,Veg,4,7725
+C3019,Midnight Brews 🌙,Café,Harveypatti,Madurai,4,4019,7226,Hot Chocolate,Café Menu,160,Veg,4,7726
+C3019,Midnight Brews 🌙,Café,Harveypatti,Madurai,4,4019,7227,Blueberry Muffin,Café Menu,90,Veg,4,7727
+C3019,Midnight Brews 🌙,Café,Harveypatti,Madurai,4,4019,7228,Choco Lava Cake,Café Menu,120,Veg,4,7728
+C3020,Cafe Serenity 🍃,Café,Pudur,Madurai,4,4020,7229,Espresso,Café Menu,80,Veg,4,7729
+C3020,Cafe Serenity 🍃,Café,Pudur,Madurai,4,4020,7230,Cappuccino,Café Menu,120,Veg,4,7730
+C3020,Cafe Serenity 🍃,Café,Pudur,Madurai,4,4020,7231,Latte,Café Menu,130,Veg,4,7731
+C3020,Cafe Serenity 🍃,Café,Pudur,Madurai,4,4020,7232,Americano,Café Menu,100,Veg,4,7732
+C3020,Cafe Serenity 🍃,Café,Pudur,Madurai,4,4020,7233,Filter Coffee,Café Menu,50,Veg,4,7733
+C3020,Cafe Serenity 🍃,Café,Pudur,Madurai,4,4020,7234,Masala Chai,Café Menu,60,Veg,4,7734
+C3020,Cafe Serenity 🍃,Café,Pudur,Madurai,4,4020,7235,Green Tea,Café Menu,70,Veg,4,7735
+C3020,Cafe Serenity 🍃,Café,Pudur,Madurai,4,4020,7236,Cold Brew,Café Menu,140,Veg,4,7736
+C3020,Cafe Serenity 🍃,Café,Pudur,Madurai,4,4020,7237,Iced Latte,Café Menu,150,Veg,4,7737
+C3020,Cafe Serenity 🍃,Café,Pudur,Madurai,4,4020,7238,Hot Chocolate,Café Menu,160,Veg,4,7738
+C3020,Cafe Serenity 🍃,Café,Pudur,Madurai,4,4020,7239,Blueberry Muffin,Café Menu,90,Veg,4,7739
+C3020,Cafe Serenity 🍃,Café,Pudur,Madurai,4,4020,7240,Choco Lava Cake,Café Menu,120,Veg,4,7740
+F2001,Madurai Fast Bites 🍔,Fast Food,Thirumangalam,Madurai,4,3001,6001,Shawarma Roll,Fast Food,100,Non-Veg,4,6501
+F2001,Madurai Fast Bites 🍔,Fast Food,Thirumangalam,Madurai,4,3001,6002,Tandoori Chicken,Fast Food,250,Non-Veg,4,6502
+F2001,Madurai Fast Bites 🍔,Fast Food,Thirumangalam,Madurai,4,3001,6003,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6503
+F2001,Madurai Fast Bites 🍔,Fast Food,Thirumangalam,Madurai,4,3001,6004,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6504
+F2001,Madurai Fast Bites 🍔,Fast Food,Thirumangalam,Madurai,4,3001,6005,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6505
+F2001,Madurai Fast Bites 🍔,Fast Food,Thirumangalam,Madurai,4,3001,6006,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6506
+F2001,Madurai Fast Bites 🍔,Fast Food,Thirumangalam,Madurai,4,3001,6007,Egg Kalakki,Fast Food,40,Non-Veg,4,6507
+F2001,Madurai Fast Bites 🍔,Fast Food,Thirumangalam,Madurai,4,3001,6008,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6508
+F2001,Madurai Fast Bites 🍔,Fast Food,Thirumangalam,Madurai,4,3001,6009,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6509
+F2001,Madurai Fast Bites 🍔,Fast Food,Thirumangalam,Madurai,4,3001,6010,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6510
+F2001,Madurai Fast Bites 🍔,Fast Food,Thirumangalam,Madurai,4,3001,6011,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6511
+F2001,Madurai Fast Bites 🍔,Fast Food,Thirumangalam,Madurai,4,3001,6012,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6512
+F2002,Street Tandoori Hub 🍗,Fast Food,Anna Nagar,Madurai,4,3002,6013,Shawarma Roll,Fast Food,100,Non-Veg,4,6513
+F2002,Street Tandoori Hub 🍗,Fast Food,Anna Nagar,Madurai,4,3002,6014,Tandoori Chicken,Fast Food,250,Non-Veg,4,6514
+F2002,Street Tandoori Hub 🍗,Fast Food,Anna Nagar,Madurai,4,3002,6015,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6515
+F2002,Street Tandoori Hub 🍗,Fast Food,Anna Nagar,Madurai,4,3002,6016,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6516
+F2002,Street Tandoori Hub 🍗,Fast Food,Anna Nagar,Madurai,4,3002,6017,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6517
+F2002,Street Tandoori Hub 🍗,Fast Food,Anna Nagar,Madurai,4,3002,6018,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6518
+F2002,Street Tandoori Hub 🍗,Fast Food,Anna Nagar,Madurai,4,3002,6019,Egg Kalakki,Fast Food,40,Non-Veg,4,6519
+F2002,Street Tandoori Hub 🍗,Fast Food,Anna Nagar,Madurai,4,3002,6020,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6520
+F2002,Street Tandoori Hub 🍗,Fast Food,Anna Nagar,Madurai,4,3002,6021,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6521
+F2002,Street Tandoori Hub 🍗,Fast Food,Anna Nagar,Madurai,4,3002,6022,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6522
+F2002,Street Tandoori Hub 🍗,Fast Food,Anna Nagar,Madurai,4,3002,6023,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6523
+F2002,Street Tandoori Hub 🍗,Fast Food,Anna Nagar,Madurai,4,3002,6024,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6524
+F2003,Salna Junction 🥘,Fast Food,KK Nagar,Madurai,4,3003,6025,Shawarma Roll,Fast Food,100,Non-Veg,4,6525
+F2003,Salna Junction 🥘,Fast Food,KK Nagar,Madurai,4,3003,6026,Tandoori Chicken,Fast Food,250,Non-Veg,4,6526
+F2003,Salna Junction 🥘,Fast Food,KK Nagar,Madurai,4,3003,6027,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6527
+F2003,Salna Junction 🥘,Fast Food,KK Nagar,Madurai,4,3003,6028,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6528
+F2003,Salna Junction 🥘,Fast Food,KK Nagar,Madurai,4,3003,6029,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6529
+F2003,Salna Junction 🥘,Fast Food,KK Nagar,Madurai,4,3003,6030,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6530
+F2003,Salna Junction 🥘,Fast Food,KK Nagar,Madurai,4,3003,6031,Egg Kalakki,Fast Food,40,Non-Veg,4,6531
+F2003,Salna Junction 🥘,Fast Food,KK Nagar,Madurai,4,3003,6032,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6532
+F2003,Salna Junction 🥘,Fast Food,KK Nagar,Madurai,4,3003,6033,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6533
+F2003,Salna Junction 🥘,Fast Food,KK Nagar,Madurai,4,3003,6034,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6534
+F2003,Salna Junction 🥘,Fast Food,KK Nagar,Madurai,4,3003,6035,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6535
+F2003,Salna Junction 🥘,Fast Food,KK Nagar,Madurai,4,3003,6036,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6536
+F2004,The Night Grill 🌮,Fast Food,Periyar,Madurai,4,3004,6037,Shawarma Roll,Fast Food,100,Non-Veg,4,6537
+F2004,The Night Grill 🌮,Fast Food,Periyar,Madurai,4,3004,6038,Tandoori Chicken,Fast Food,250,Non-Veg,4,6538
+F2004,The Night Grill 🌮,Fast Food,Periyar,Madurai,4,3004,6039,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6539
+F2004,The Night Grill 🌮,Fast Food,Periyar,Madurai,4,3004,6040,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6540
+F2004,The Night Grill 🌮,Fast Food,Periyar,Madurai,4,3004,6041,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6541
+F2004,The Night Grill 🌮,Fast Food,Periyar,Madurai,4,3004,6042,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6542
+F2004,The Night Grill 🌮,Fast Food,Periyar,Madurai,4,3004,6043,Egg Kalakki,Fast Food,40,Non-Veg,4,6543
+F2004,The Night Grill 🌮,Fast Food,Periyar,Madurai,4,3004,6044,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6544
+F2004,The Night Grill 🌮,Fast Food,Periyar,Madurai,4,3004,6045,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6545
+F2004,The Night Grill 🌮,Fast Food,Periyar,Madurai,4,3004,6046,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6546
+F2004,The Night Grill 🌮,Fast Food,Periyar,Madurai,4,3004,6047,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6547
+F2004,The Night Grill 🌮,Fast Food,Periyar,Madurai,4,3004,6048,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6548
+F2005,Kothu Factory 🍜,Fast Food,Simmakkal,Madurai,4,3005,6049,Shawarma Roll,Fast Food,100,Non-Veg,4,6549
+F2005,Kothu Factory 🍜,Fast Food,Simmakkal,Madurai,4,3005,6050,Tandoori Chicken,Fast Food,250,Non-Veg,4,6550
+F2005,Kothu Factory 🍜,Fast Food,Simmakkal,Madurai,4,3005,6051,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6551
+F2005,Kothu Factory 🍜,Fast Food,Simmakkal,Madurai,4,3005,6052,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6552
+F2005,Kothu Factory 🍜,Fast Food,Simmakkal,Madurai,4,3005,6053,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6553
+F2005,Kothu Factory 🍜,Fast Food,Simmakkal,Madurai,4,3005,6054,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6554
+F2005,Kothu Factory 🍜,Fast Food,Simmakkal,Madurai,4,3005,6055,Egg Kalakki,Fast Food,40,Non-Veg,4,6555
+F2005,Kothu Factory 🍜,Fast Food,Simmakkal,Madurai,4,3005,6056,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6556
+F2005,Kothu Factory 🍜,Fast Food,Simmakkal,Madurai,4,3005,6057,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6557
+F2005,Kothu Factory 🍜,Fast Food,Simmakkal,Madurai,4,3005,6058,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6558
+F2005,Kothu Factory 🍜,Fast Food,Simmakkal,Madurai,4,3005,6059,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6559
+F2005,Kothu Factory 🍜,Fast Food,Simmakkal,Madurai,4,3005,6060,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6560
+F2006,Roll & Wrap Spot 🌯,Fast Food,Goripalayam,Madurai,4,3006,6061,Shawarma Roll,Fast Food,100,Non-Veg,4,6561
+F2006,Roll & Wrap Spot 🌯,Fast Food,Goripalayam,Madurai,4,3006,6062,Tandoori Chicken,Fast Food,250,Non-Veg,4,6562
+F2006,Roll & Wrap Spot 🌯,Fast Food,Goripalayam,Madurai,4,3006,6063,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6563
+F2006,Roll & Wrap Spot 🌯,Fast Food,Goripalayam,Madurai,4,3006,6064,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6564
+F2006,Roll & Wrap Spot 🌯,Fast Food,Goripalayam,Madurai,4,3006,6065,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6565
+F2006,Roll & Wrap Spot 🌯,Fast Food,Goripalayam,Madurai,4,3006,6066,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6566
+F2006,Roll & Wrap Spot 🌯,Fast Food,Goripalayam,Madurai,4,3006,6067,Egg Kalakki,Fast Food,40,Non-Veg,4,6567
+F2006,Roll & Wrap Spot 🌯,Fast Food,Goripalayam,Madurai,4,3006,6068,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6568
+F2006,Roll & Wrap Spot 🌯,Fast Food,Goripalayam,Madurai,4,3006,6069,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6569
+F2006,Roll & Wrap Spot 🌯,Fast Food,Goripalayam,Madurai,4,3006,6070,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6570
+F2006,Roll & Wrap Spot 🌯,Fast Food,Goripalayam,Madurai,4,3006,6071,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6571
+F2006,Roll & Wrap Spot 🌯,Fast Food,Goripalayam,Madurai,4,3006,6072,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6572
+F2007,Madurai Quick Eats 🍕,Fast Food,Tallakulam,Madurai,4,3007,6073,Shawarma Roll,Fast Food,100,Non-Veg,4,6573
+F2007,Madurai Quick Eats 🍕,Fast Food,Tallakulam,Madurai,4,3007,6074,Tandoori Chicken,Fast Food,250,Non-Veg,4,6574
+F2007,Madurai Quick Eats 🍕,Fast Food,Tallakulam,Madurai,4,3007,6075,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6575
+F2007,Madurai Quick Eats 🍕,Fast Food,Tallakulam,Madurai,4,3007,6076,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6576
+F2007,Madurai Quick Eats 🍕,Fast Food,Tallakulam,Madurai,4,3007,6077,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6577
+F2007,Madurai Quick Eats 🍕,Fast Food,Tallakulam,Madurai,4,3007,6078,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6578
+F2007,Madurai Quick Eats 🍕,Fast Food,Tallakulam,Madurai,4,3007,6079,Egg Kalakki,Fast Food,40,Non-Veg,4,6579
+F2007,Madurai Quick Eats 🍕,Fast Food,Tallakulam,Madurai,4,3007,6080,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6580
+F2007,Madurai Quick Eats 🍕,Fast Food,Tallakulam,Madurai,4,3007,6081,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6581
+F2007,Madurai Quick Eats 🍕,Fast Food,Tallakulam,Madurai,4,3007,6082,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6582
+F2007,Madurai Quick Eats 🍕,Fast Food,Tallakulam,Madurai,4,3007,6083,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6583
+F2007,Madurai Quick Eats 🍕,Fast Food,Tallakulam,Madurai,4,3007,6084,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6584
+F2008,BBQ Xpress 🍖,Fast Food,Villapuram,Madurai,4,3008,6085,Shawarma Roll,Fast Food,100,Non-Veg,4,6585
+F2008,BBQ Xpress 🍖,Fast Food,Villapuram,Madurai,4,3008,6086,Tandoori Chicken,Fast Food,250,Non-Veg,4,6586
+F2008,BBQ Xpress 🍖,Fast Food,Villapuram,Madurai,4,3008,6087,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6587
+F2008,BBQ Xpress 🍖,Fast Food,Villapuram,Madurai,4,3008,6088,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6588
+F2008,BBQ Xpress 🍖,Fast Food,Villapuram,Madurai,4,3008,6089,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6589
+F2008,BBQ Xpress 🍖,Fast Food,Villapuram,Madurai,4,3008,6090,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6590
+F2008,BBQ Xpress 🍖,Fast Food,Villapuram,Madurai,4,3008,6091,Egg Kalakki,Fast Food,40,Non-Veg,4,6591
+F2008,BBQ Xpress 🍖,Fast Food,Villapuram,Madurai,4,3008,6092,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6592
+F2008,BBQ Xpress 🍖,Fast Food,Villapuram,Madurai,4,3008,6093,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6593
+F2008,BBQ Xpress 🍖,Fast Food,Villapuram,Madurai,4,3008,6094,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6594
+F2008,BBQ Xpress 🍖,Fast Food,Villapuram,Madurai,4,3008,6095,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6595
+F2008,BBQ Xpress 🍖,Fast Food,Villapuram,Madurai,4,3008,6096,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6596
+F2009,Bun Parotta Street 🥙,Fast Food,Thiruparankundram,Madurai,4,3009,6097,Shawarma Roll,Fast Food,100,Non-Veg,4,6597
+F2009,Bun Parotta Street 🥙,Fast Food,Thiruparankundram,Madurai,4,3009,6098,Tandoori Chicken,Fast Food,250,Non-Veg,4,6598
+F2009,Bun Parotta Street 🥙,Fast Food,Thiruparankundram,Madurai,4,3009,6099,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6599
+F2009,Bun Parotta Street 🥙,Fast Food,Thiruparankundram,Madurai,4,3009,6100,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6600
+F2009,Bun Parotta Street 🥙,Fast Food,Thiruparankundram,Madurai,4,3009,6101,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6601
+F2009,Bun Parotta Street 🥙,Fast Food,Thiruparankundram,Madurai,4,3009,6102,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6602
+F2009,Bun Parotta Street 🥙,Fast Food,Thiruparankundram,Madurai,4,3009,6103,Egg Kalakki,Fast Food,40,Non-Veg,4,6603
+F2009,Bun Parotta Street 🥙,Fast Food,Thiruparankundram,Madurai,4,3009,6104,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6604
+F2009,Bun Parotta Street 🥙,Fast Food,Thiruparankundram,Madurai,4,3009,6105,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6605
+F2009,Bun Parotta Street 🥙,Fast Food,Thiruparankundram,Madurai,4,3009,6106,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6606
+F2009,Bun Parotta Street 🥙,Fast Food,Thiruparankundram,Madurai,4,3009,6107,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6607
+F2009,Bun Parotta Street 🥙,Fast Food,Thiruparankundram,Madurai,4,3009,6108,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6608
+F2010,Flame & Fry 🍗,Fast Food,Mattuthavani,Madurai,4,3010,6109,Shawarma Roll,Fast Food,100,Non-Veg,4,6609
+F2010,Flame & Fry 🍗,Fast Food,Mattuthavani,Madurai,4,3010,6110,Tandoori Chicken,Fast Food,250,Non-Veg,4,6610
+F2010,Flame & Fry 🍗,Fast Food,Mattuthavani,Madurai,4,3010,6111,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6611
+F2010,Flame & Fry 🍗,Fast Food,Mattuthavani,Madurai,4,3010,6112,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6612
+F2010,Flame & Fry 🍗,Fast Food,Mattuthavani,Madurai,4,3010,6113,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6613
+F2010,Flame & Fry 🍗,Fast Food,Mattuthavani,Madurai,4,3010,6114,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6614
+F2010,Flame & Fry 🍗,Fast Food,Mattuthavani,Madurai,4,3010,6115,Egg Kalakki,Fast Food,40,Non-Veg,4,6615
+F2010,Flame & Fry 🍗,Fast Food,Mattuthavani,Madurai,4,3010,6116,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6616
+F2010,Flame & Fry 🍗,Fast Food,Mattuthavani,Madurai,4,3010,6117,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6617
+F2010,Flame & Fry 🍗,Fast Food,Mattuthavani,Madurai,4,3010,6118,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6618
+F2010,Flame & Fry 🍗,Fast Food,Mattuthavani,Madurai,4,3010,6119,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6619
+F2010,Flame & Fry 🍗,Fast Food,Mattuthavani,Madurai,4,3010,6120,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6620
+F2011,Roadside Munchies 🍟,Fast Food,Koodal Nagar,Madurai,4,3011,6121,Shawarma Roll,Fast Food,100,Non-Veg,4,6621
+F2011,Roadside Munchies 🍟,Fast Food,Koodal Nagar,Madurai,4,3011,6122,Tandoori Chicken,Fast Food,250,Non-Veg,4,6622
+F2011,Roadside Munchies 🍟,Fast Food,Koodal Nagar,Madurai,4,3011,6123,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6623
+F2011,Roadside Munchies 🍟,Fast Food,Koodal Nagar,Madurai,4,3011,6124,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6624
+F2011,Roadside Munchies 🍟,Fast Food,Koodal Nagar,Madurai,4,3011,6125,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6625
+F2011,Roadside Munchies 🍟,Fast Food,Koodal Nagar,Madurai,4,3011,6126,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6626
+F2011,Roadside Munchies 🍟,Fast Food,Koodal Nagar,Madurai,4,3011,6127,Egg Kalakki,Fast Food,40,Non-Veg,4,6627
+F2011,Roadside Munchies 🍟,Fast Food,Koodal Nagar,Madurai,4,3011,6128,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6628
+F2011,Roadside Munchies 🍟,Fast Food,Koodal Nagar,Madurai,4,3011,6129,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6629
+F2011,Roadside Munchies 🍟,Fast Food,Koodal Nagar,Madurai,4,3011,6130,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6630
+F2011,Roadside Munchies 🍟,Fast Food,Koodal Nagar,Madurai,4,3011,6131,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6631
+F2011,Roadside Munchies 🍟,Fast Food,Koodal Nagar,Madurai,4,3011,6132,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6632
+F2012,Shawarma Corner 🌯,Fast Food,Palanganatham,Madurai,4,3012,6133,Shawarma Roll,Fast Food,100,Non-Veg,4,6633
+F2012,Shawarma Corner 🌯,Fast Food,Palanganatham,Madurai,4,3012,6134,Tandoori Chicken,Fast Food,250,Non-Veg,4,6634
+F2012,Shawarma Corner 🌯,Fast Food,Palanganatham,Madurai,4,3012,6135,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6635
+F2012,Shawarma Corner 🌯,Fast Food,Palanganatham,Madurai,4,3012,6136,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6636
+F2012,Shawarma Corner 🌯,Fast Food,Palanganatham,Madurai,4,3012,6137,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6637
+F2012,Shawarma Corner 🌯,Fast Food,Palanganatham,Madurai,4,3012,6138,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6638
+F2012,Shawarma Corner 🌯,Fast Food,Palanganatham,Madurai,4,3012,6139,Egg Kalakki,Fast Food,40,Non-Veg,4,6639
+F2012,Shawarma Corner 🌯,Fast Food,Palanganatham,Madurai,4,3012,6140,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6640
+F2012,Shawarma Corner 🌯,Fast Food,Palanganatham,Madurai,4,3012,6141,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6641
+F2012,Shawarma Corner 🌯,Fast Food,Palanganatham,Madurai,4,3012,6142,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6642
+F2012,Shawarma Corner 🌯,Fast Food,Palanganatham,Madurai,4,3012,6143,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6643
+F2012,Shawarma Corner 🌯,Fast Food,Palanganatham,Madurai,4,3012,6144,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6644
+F2013,Burger Street Hub 🍔,Fast Food,Sellur,Madurai,4,3013,6145,Shawarma Roll,Fast Food,100,Non-Veg,4,6645
+F2013,Burger Street Hub 🍔,Fast Food,Sellur,Madurai,4,3013,6146,Tandoori Chicken,Fast Food,250,Non-Veg,4,6646
+F2013,Burger Street Hub 🍔,Fast Food,Sellur,Madurai,4,3013,6147,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6647
+F2013,Burger Street Hub 🍔,Fast Food,Sellur,Madurai,4,3013,6148,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6648
+F2013,Burger Street Hub 🍔,Fast Food,Sellur,Madurai,4,3013,6149,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6649
+F2013,Burger Street Hub 🍔,Fast Food,Sellur,Madurai,4,3013,6150,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6650
+F2013,Burger Street Hub 🍔,Fast Food,Sellur,Madurai,4,3013,6151,Egg Kalakki,Fast Food,40,Non-Veg,4,6651
+F2013,Burger Street Hub 🍔,Fast Food,Sellur,Madurai,4,3013,6152,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6652
+F2013,Burger Street Hub 🍔,Fast Food,Sellur,Madurai,4,3013,6153,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6653
+F2013,Burger Street Hub 🍔,Fast Food,Sellur,Madurai,4,3013,6154,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6654
+F2013,Burger Street Hub 🍔,Fast Food,Sellur,Madurai,4,3013,6155,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6655
+F2013,Burger Street Hub 🍔,Fast Food,Sellur,Madurai,4,3013,6156,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6656
+F2014,Momos & More 🥟,Fast Food,Avaniyapuram,Madurai,4,3014,6157,Shawarma Roll,Fast Food,100,Non-Veg,4,6657
+F2014,Momos & More 🥟,Fast Food,Avaniyapuram,Madurai,4,3014,6158,Tandoori Chicken,Fast Food,250,Non-Veg,4,6658
+F2014,Momos & More 🥟,Fast Food,Avaniyapuram,Madurai,4,3014,6159,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6659
+F2014,Momos & More 🥟,Fast Food,Avaniyapuram,Madurai,4,3014,6160,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6660
+F2014,Momos & More 🥟,Fast Food,Avaniyapuram,Madurai,4,3014,6161,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6661
+F2014,Momos & More 🥟,Fast Food,Avaniyapuram,Madurai,4,3014,6162,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6662
+F2014,Momos & More 🥟,Fast Food,Avaniyapuram,Madurai,4,3014,6163,Egg Kalakki,Fast Food,40,Non-Veg,4,6663
+F2014,Momos & More 🥟,Fast Food,Avaniyapuram,Madurai,4,3014,6164,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6664
+F2014,Momos & More 🥟,Fast Food,Avaniyapuram,Madurai,4,3014,6165,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6665
+F2014,Momos & More 🥟,Fast Food,Avaniyapuram,Madurai,4,3014,6166,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6666
+F2014,Momos & More 🥟,Fast Food,Avaniyapuram,Madurai,4,3014,6167,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6667
+F2014,Momos & More 🥟,Fast Food,Avaniyapuram,Madurai,4,3014,6168,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6668
+F2015,Fry Masters 🍤,Fast Food,Chinthamani,Madurai,4,3015,6169,Shawarma Roll,Fast Food,100,Non-Veg,4,6669
+F2015,Fry Masters 🍤,Fast Food,Chinthamani,Madurai,4,3015,6170,Tandoori Chicken,Fast Food,250,Non-Veg,4,6670
+F2015,Fry Masters 🍤,Fast Food,Chinthamani,Madurai,4,3015,6171,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6671
+F2015,Fry Masters 🍤,Fast Food,Chinthamani,Madurai,4,3015,6172,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6672
+F2015,Fry Masters 🍤,Fast Food,Chinthamani,Madurai,4,3015,6173,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6673
+F2015,Fry Masters 🍤,Fast Food,Chinthamani,Madurai,4,3015,6174,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6674
+F2015,Fry Masters 🍤,Fast Food,Chinthamani,Madurai,4,3015,6175,Egg Kalakki,Fast Food,40,Non-Veg,4,6675
+F2015,Fry Masters 🍤,Fast Food,Chinthamani,Madurai,4,3015,6176,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6676
+F2015,Fry Masters 🍤,Fast Food,Chinthamani,Madurai,4,3015,6177,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6677
+F2015,Fry Masters 🍤,Fast Food,Chinthamani,Madurai,4,3015,6178,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6678
+F2015,Fry Masters 🍤,Fast Food,Chinthamani,Madurai,4,3015,6179,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6679
+F2015,Fry Masters 🍤,Fast Food,Chinthamani,Madurai,4,3015,6180,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6680
+F2016,Hot & Spicy Hub 🌶️,Fast Food,Arappalayam,Madurai,4,3016,6181,Shawarma Roll,Fast Food,100,Non-Veg,4,6681
+F2016,Hot & Spicy Hub 🌶️,Fast Food,Arappalayam,Madurai,4,3016,6182,Tandoori Chicken,Fast Food,250,Non-Veg,4,6682
+F2016,Hot & Spicy Hub 🌶️,Fast Food,Arappalayam,Madurai,4,3016,6183,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6683
+F2016,Hot & Spicy Hub 🌶️,Fast Food,Arappalayam,Madurai,4,3016,6184,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6684
+F2016,Hot & Spicy Hub 🌶️,Fast Food,Arappalayam,Madurai,4,3016,6185,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6685
+F2016,Hot & Spicy Hub 🌶️,Fast Food,Arappalayam,Madurai,4,3016,6186,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6686
+F2016,Hot & Spicy Hub 🌶️,Fast Food,Arappalayam,Madurai,4,3016,6187,Egg Kalakki,Fast Food,40,Non-Veg,4,6687
+F2016,Hot & Spicy Hub 🌶️,Fast Food,Arappalayam,Madurai,4,3016,6188,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6688
+F2016,Hot & Spicy Hub 🌶️,Fast Food,Arappalayam,Madurai,4,3016,6189,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6689
+F2016,Hot & Spicy Hub 🌶️,Fast Food,Arappalayam,Madurai,4,3016,6190,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6690
+F2016,Hot & Spicy Hub 🌶️,Fast Food,Arappalayam,Madurai,4,3016,6191,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6691
+F2016,Hot & Spicy Hub 🌶️,Fast Food,Arappalayam,Madurai,4,3016,6192,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6692
+F2017,Midnight Tiffin Point 🥞,Fast Food,Kochadai,Madurai,4,3017,6193,Shawarma Roll,Fast Food,100,Non-Veg,4,6693
+F2017,Midnight Tiffin Point 🥞,Fast Food,Kochadai,Madurai,4,3017,6194,Tandoori Chicken,Fast Food,250,Non-Veg,4,6694
+F2017,Midnight Tiffin Point 🥞,Fast Food,Kochadai,Madurai,4,3017,6195,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6695
+F2017,Midnight Tiffin Point 🥞,Fast Food,Kochadai,Madurai,4,3017,6196,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6696
+F2017,Midnight Tiffin Point 🥞,Fast Food,Kochadai,Madurai,4,3017,6197,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6697
+F2017,Midnight Tiffin Point 🥞,Fast Food,Kochadai,Madurai,4,3017,6198,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6698
+F2017,Midnight Tiffin Point 🥞,Fast Food,Kochadai,Madurai,4,3017,6199,Egg Kalakki,Fast Food,40,Non-Veg,4,6699
+F2017,Midnight Tiffin Point 🥞,Fast Food,Kochadai,Madurai,4,3017,6200,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6700
+F2017,Midnight Tiffin Point 🥞,Fast Food,Kochadai,Madurai,4,3017,6201,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6701
+F2017,Midnight Tiffin Point 🥞,Fast Food,Kochadai,Madurai,4,3017,6202,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6702
+F2017,Midnight Tiffin Point 🥞,Fast Food,Kochadai,Madurai,4,3017,6203,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6703
+F2017,Midnight Tiffin Point 🥞,Fast Food,Kochadai,Madurai,4,3017,6204,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6704
+F2018,Madurai Wrap House 🌯,Fast Food,Bye Pass Road,Madurai,4,3018,6205,Shawarma Roll,Fast Food,100,Non-Veg,4,6705
+F2018,Madurai Wrap House 🌯,Fast Food,Bye Pass Road,Madurai,4,3018,6206,Tandoori Chicken,Fast Food,250,Non-Veg,4,6706
+F2018,Madurai Wrap House 🌯,Fast Food,Bye Pass Road,Madurai,4,3018,6207,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6707
+F2018,Madurai Wrap House 🌯,Fast Food,Bye Pass Road,Madurai,4,3018,6208,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6708
+F2018,Madurai Wrap House 🌯,Fast Food,Bye Pass Road,Madurai,4,3018,6209,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6709
+F2018,Madurai Wrap House 🌯,Fast Food,Bye Pass Road,Madurai,4,3018,6210,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6710
+F2018,Madurai Wrap House 🌯,Fast Food,Bye Pass Road,Madurai,4,3018,6211,Egg Kalakki,Fast Food,40,Non-Veg,4,6711
+F2018,Madurai Wrap House 🌯,Fast Food,Bye Pass Road,Madurai,4,3018,6212,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6712
+F2018,Madurai Wrap House 🌯,Fast Food,Bye Pass Road,Madurai,4,3018,6213,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6713
+F2018,Madurai Wrap House 🌯,Fast Food,Bye Pass Road,Madurai,4,3018,6214,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6714
+F2018,Madurai Wrap House 🌯,Fast Food,Bye Pass Road,Madurai,4,3018,6215,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6715
+F2018,Madurai Wrap House 🌯,Fast Food,Bye Pass Road,Madurai,4,3018,6216,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6716
+F2019,Crispy Cravings 🍗,Fast Food,Harveypatti,Madurai,4,3019,6217,Shawarma Roll,Fast Food,100,Non-Veg,4,6717
+F2019,Crispy Cravings 🍗,Fast Food,Harveypatti,Madurai,4,3019,6218,Tandoori Chicken,Fast Food,250,Non-Veg,4,6718
+F2019,Crispy Cravings 🍗,Fast Food,Harveypatti,Madurai,4,3019,6219,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6719
+F2019,Crispy Cravings 🍗,Fast Food,Harveypatti,Madurai,4,3019,6220,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6720
+F2019,Crispy Cravings 🍗,Fast Food,Harveypatti,Madurai,4,3019,6221,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6721
+F2019,Crispy Cravings 🍗,Fast Food,Harveypatti,Madurai,4,3019,6222,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6722
+F2019,Crispy Cravings 🍗,Fast Food,Harveypatti,Madurai,4,3019,6223,Egg Kalakki,Fast Food,40,Non-Veg,4,6723
+F2019,Crispy Cravings 🍗,Fast Food,Harveypatti,Madurai,4,3019,6224,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6724
+F2019,Crispy Cravings 🍗,Fast Food,Harveypatti,Madurai,4,3019,6225,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6725
+F2019,Crispy Cravings 🍗,Fast Food,Harveypatti,Madurai,4,3019,6226,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6726
+F2019,Crispy Cravings 🍗,Fast Food,Harveypatti,Madurai,4,3019,6227,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6727
+F2019,Crispy Cravings 🍗,Fast Food,Harveypatti,Madurai,4,3019,6228,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6728
+F2020,Snack Express 🍽️,Fast Food,Pudur,Madurai,4,3020,6229,Shawarma Roll,Fast Food,100,Non-Veg,4,6729
+F2020,Snack Express 🍽️,Fast Food,Pudur,Madurai,4,3020,6230,Tandoori Chicken,Fast Food,250,Non-Veg,4,6730
+F2020,Snack Express 🍽️,Fast Food,Pudur,Madurai,4,3020,6231,BBQ Chicken Wings,Fast Food,160,Non-Veg,4,6731
+F2020,Snack Express 🍽️,Fast Food,Pudur,Madurai,4,3020,6232,Peri Peri Chicken Fry,Fast Food,170,Non-Veg,4,6732
+F2020,Snack Express 🍽️,Fast Food,Pudur,Madurai,4,3020,6233,Chicken Kothu Parotta,Fast Food,120,Non-Veg,4,6733
+F2020,Snack Express 🍽️,Fast Food,Pudur,Madurai,4,3020,6234,Mutton Kari Dosa,Fast Food,180,Non-Veg,4,6734
+F2020,Snack Express 🍽️,Fast Food,Pudur,Madurai,4,3020,6235,Egg Kalakki,Fast Food,40,Non-Veg,4,6735
+F2020,Snack Express 🍽️,Fast Food,Pudur,Madurai,4,3020,6236,Spicy Chicken 65,Fast Food,130,Non-Veg,4,6736
+F2020,Snack Express 🍽️,Fast Food,Pudur,Madurai,4,3020,6237,Crispy Chicken Burger,Fast Food,120,Non-Veg,4,6737
+F2020,Snack Express 🍽️,Fast Food,Pudur,Madurai,4,3020,6238,Nattu Kozhi Soup,Fast Food,90,Non-Veg,4,6738
+F2020,Snack Express 🍽️,Fast Food,Pudur,Madurai,4,3020,6239,Grilled Chicken Sandwich,Fast Food,100,Non-Veg,4,6739
+F2020,Snack Express 🍽️,Fast Food,Pudur,Madurai,4,3020,6240,Pepper Mutton Fry,Fast Food,200,Non-Veg,4,6740
+L3001,Saravana Samayal,Lunch Center,Periyar,Madurai,4.7,1320,7001,Sambar Rice,Lunch,90,Veg,4.7,1320
+L3001,Saravana Samayal,Lunch Center,Periyar,Madurai,4.7,1320,7002,Lemon Rice,Lunch,85,Veg,4.7,1320
+L3001,Saravana Samayal,Lunch Center,Periyar,Madurai,4.7,1320,7003,Paneer Butter Masala with Roti,Lunch,170,Veg,4.7,1320
+L3001,Saravana Samayal,Lunch Center,Periyar,Madurai,4.7,1320,7004,Chicken Biryani,Lunch,190,Non-Veg,4.7,1320
+L3001,Saravana Samayal,Lunch Center,Periyar,Madurai,4.7,1320,7005,Curd Rice,Lunch,80,Veg,4.7,1320
+L3001,Saravana Samayal,Lunch Center,Periyar,Madurai,4.7,1320,7006,Parotta with Kurma,Lunch,100,Veg,4.7,1320
+L3001,Saravana Samayal,Lunch Center,Periyar,Madurai,4.7,1320,7007,Mushroom Biryani,Lunch,160,Veg,4.7,1320
+L3001,Saravana Samayal,Lunch Center,Periyar,Madurai,4.7,1320,7008,Mutton Biryani,Lunch,230,Non-Veg,4.7,1320
+L3001,Saravana Samayal,Lunch Center,Periyar,Madurai,4.7,1320,7009,Mini Meals,Lunch,100,Veg,4.7,1320
+L3001,Saravana Samayal,Lunch Center,Periyar,Madurai,4.7,1320,7010,Fish Curry Meals,Lunch,210,Non-Veg,4.7,1320
+L3001,Saravana Samayal,Lunch Center,Periyar,Madurai,4.7,1320,7011,Egg Biryani,Lunch,170,Non-Veg,4.7,1320
+L3001,Saravana Samayal,Lunch Center,Periyar,Madurai,4.7,1320,7012,Ghee Rice with Dal Fry,Lunch,150,Veg,4.7,1320
+L3001,Saravana Samayal,Lunch Center,Periyar,Madurai,4.7,1320,7013,Vegetable Biryani,Lunch,140,Veg,4.7,1320
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7014,Paneer Butter Masala with Roti,Lunch,170,Veg,3.6,2398
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7015,Mushroom Biryani,Lunch,160,Veg,3.6,2398
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7016,Vegetable Biryani,Lunch,140,Veg,3.6,2398
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7017,Mini Meals,Lunch,100,Veg,3.6,2398
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7018,Mutton Biryani,Lunch,230,Non-Veg,3.6,2398
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7019,Parotta with Kurma,Lunch,100,Veg,3.6,2398
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7020,Curd Rice,Lunch,80,Veg,3.6,2398
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7021,Kothu Parotta (Egg),Lunch,140,Non-Veg,3.6,2398
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7022,Lemon Rice,Lunch,85,Veg,3.6,2398
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7023,Chicken Biryani,Lunch,190,Non-Veg,3.6,2398
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7024,Fish Curry Meals,Lunch,210,Non-Veg,3.6,2398
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7025,Meals,Lunch,130,Veg,3.6,2398
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7026,Sambar Rice,Lunch,90,Veg,3.6,2398
+L3002,Thalappakatti Meals,Lunch Center,Anna Nagar,Madurai,3.6,2398,7027,Egg Biryani,Lunch,170,Non-Veg,3.6,2398
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7028,Fish Curry Meals,Lunch,210,Non-Veg,4.2,3758
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7029,Parotta with Kurma,Lunch,100,Veg,4.2,3758
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7030,Kothu Parotta (Egg),Lunch,140,Non-Veg,4.2,3758
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7031,Curd Rice,Lunch,80,Veg,4.2,3758
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7032,Vegetable Biryani,Lunch,140,Veg,4.2,3758
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7033,Chicken Biryani,Lunch,190,Non-Veg,4.2,3758
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7034,Ghee Rice with Dal Fry,Lunch,150,Veg,4.2,3758
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7035,Mushroom Biryani,Lunch,160,Veg,4.2,3758
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7036,Mutton Biryani,Lunch,230,Non-Veg,4.2,3758
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7037,Meals,Lunch,130,Veg,4.2,3758
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7038,Egg Biryani,Lunch,170,Non-Veg,4.2,3758
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7039,Mini Meals,Lunch,100,Veg,4.2,3758
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7040,Lemon Rice,Lunch,85,Veg,4.2,3758
+L3003,Madurai Virundhu,Lunch Center,Periyar,Madurai,4.2,3758,7041,Sambar Rice,Lunch,90,Veg,4.2,3758
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7042,Parotta with Kurma,Lunch,100,Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7043,Paneer Butter Masala with Roti,Lunch,170,Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7044,Mushroom Biryani,Lunch,160,Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7045,Chicken Biryani,Lunch,190,Non-Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7046,Egg Biryani,Lunch,170,Non-Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7047,Mutton Biryani,Lunch,230,Non-Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7048,Mini Meals,Lunch,100,Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7049,Kothu Parotta (Egg),Lunch,140,Non-Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7050,Sambar Rice,Lunch,90,Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7051,Meals,Lunch,130,Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7052,Lemon Rice,Lunch,85,Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7053,Vegetable Biryani,Lunch,140,Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7054,Curd Rice,Lunch,80,Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7055,Fish Curry Meals,Lunch,210,Non-Veg,3.9,4419
+L3004,Sri Amman Mess,Lunch Center,Anna Nagar,Madurai,3.9,4419,7056,Ghee Rice with Dal Fry,Lunch,150,Veg,3.9,4419
+L3005,Classic Madurai Meals,Lunch Center,Goripalayam,Madurai,4,4745,7057,Fish Curry Meals,Lunch,210,Non-Veg,4,4745
+L3005,Classic Madurai Meals,Lunch Center,Goripalayam,Madurai,4,4745,7058,Egg Biryani,Lunch,170,Non-Veg,4,4745
+L3005,Classic Madurai Meals,Lunch Center,Goripalayam,Madurai,4,4745,7059,Curd Rice,Lunch,80,Veg,4,4745
+L3005,Classic Madurai Meals,Lunch Center,Goripalayam,Madurai,4,4745,7060,Chicken Biryani,Lunch,190,Non-Veg,4,4745
+L3005,Classic Madurai Meals,Lunch Center,Goripalayam,Madurai,4,4745,7061,Kothu Parotta (Egg),Lunch,140,Non-Veg,4,4745
+L3005,Classic Madurai Meals,Lunch Center,Goripalayam,Madurai,4,4745,7062,Ghee Rice with Dal Fry,Lunch,150,Veg,4,4745
+L3005,Classic Madurai Meals,Lunch Center,Goripalayam,Madurai,4,4745,7063,Mushroom Biryani,Lunch,160,Veg,4,4745
+L3005,Classic Madurai Meals,Lunch Center,Goripalayam,Madurai,4,4745,7064,Paneer Butter Masala with Roti,Lunch,170,Veg,4,4745
+L3005,Classic Madurai Meals,Lunch Center,Goripalayam,Madurai,4,4745,7065,Parotta with Kurma,Lunch,100,Veg,4,4745
+L3005,Classic Madurai Meals,Lunch Center,Goripalayam,Madurai,4,4745,7066,Mutton Biryani,Lunch,230,Non-Veg,4,4745
+L3005,Classic Madurai Meals,Lunch Center,Goripalayam,Madurai,4,4745,7067,Meals,Lunch,130,Veg,4,4745
+L3005,Classic Madurai Meals,Lunch Center,Goripalayam,Madurai,4,4745,7068,Lemon Rice,Lunch,85,Veg,4,4745
+L3005,Classic Madurai Meals,Lunch Center,Goripalayam,Madurai,4,4745,7069,Vegetable Biryani,Lunch,140,Veg,4,4745
+L3006,Selvam Mess,Lunch Center,Simmakkal,Madurai,4.5,4119,7070,Curd Rice,Lunch,80,Veg,4.5,4119
+L3006,Selvam Mess,Lunch Center,Simmakkal,Madurai,4.5,4119,7071,Fish Curry Meals,Lunch,210,Non-Veg,4.5,4119
+L3006,Selvam Mess,Lunch Center,Simmakkal,Madurai,4.5,4119,7072,Vegetable Biryani,Lunch,140,Veg,4.5,4119
+L3006,Selvam Mess,Lunch Center,Simmakkal,Madurai,4.5,4119,7073,Sambar Rice,Lunch,90,Veg,4.5,4119
+L3006,Selvam Mess,Lunch Center,Simmakkal,Madurai,4.5,4119,7074,Ghee Rice with Dal Fry,Lunch,150,Veg,4.5,4119
+L3006,Selvam Mess,Lunch Center,Simmakkal,Madurai,4.5,4119,7075,Egg Biryani,Lunch,170,Non-Veg,4.5,4119
+L3006,Selvam Mess,Lunch Center,Simmakkal,Madurai,4.5,4119,7076,Lemon Rice,Lunch,85,Veg,4.5,4119
+L3006,Selvam Mess,Lunch Center,Simmakkal,Madurai,4.5,4119,7077,Parotta with Kurma,Lunch,100,Veg,4.5,4119
+L3006,Selvam Mess,Lunch Center,Simmakkal,Madurai,4.5,4119,7078,Meals,Lunch,130,Veg,4.5,4119
+L3006,Selvam Mess,Lunch Center,Simmakkal,Madurai,4.5,4119,7079,Paneer Butter Masala with Roti,Lunch,170,Veg,4.5,4119
+L3006,Selvam Mess,Lunch Center,Simmakkal,Madurai,4.5,4119,7080,Mushroom Biryani,Lunch,160,Veg,4.5,4119
+L3007,Raja Lunch House,Lunch Center,Anna Nagar,Madurai,4.6,2490,7081,Mushroom Biryani,Lunch,160,Veg,4.6,2490
+L3007,Raja Lunch House,Lunch Center,Anna Nagar,Madurai,4.6,2490,7082,Sambar Rice,Lunch,90,Veg,4.6,2490
+L3007,Raja Lunch House,Lunch Center,Anna Nagar,Madurai,4.6,2490,7083,Vegetable Biryani,Lunch,140,Veg,4.6,2490
+L3007,Raja Lunch House,Lunch Center,Anna Nagar,Madurai,4.6,2490,7084,Paneer Butter Masala with Roti,Lunch,170,Veg,4.6,2490
+L3007,Raja Lunch House,Lunch Center,Anna Nagar,Madurai,4.6,2490,7085,Parotta with Kurma,Lunch,100,Veg,4.6,2490
+L3007,Raja Lunch House,Lunch Center,Anna Nagar,Madurai,4.6,2490,7086,Egg Biryani,Lunch,170,Non-Veg,4.6,2490
+L3007,Raja Lunch House,Lunch Center,Anna Nagar,Madurai,4.6,2490,7087,Kothu Parotta (Egg),Lunch,140,Non-Veg,4.6,2490
+L3007,Raja Lunch House,Lunch Center,Anna Nagar,Madurai,4.6,2490,7088,Fish Curry Meals,Lunch,210,Non-Veg,4.6,2490
+L3007,Raja Lunch House,Lunch Center,Anna Nagar,Madurai,4.6,2490,7089,Meals,Lunch,130,Veg,4.6,2490
+L3007,Raja Lunch House,Lunch Center,Anna Nagar,Madurai,4.6,2490,7090,Mutton Biryani,Lunch,230,Non-Veg,4.6,2490
+L3007,Raja Lunch House,Lunch Center,Anna Nagar,Madurai,4.6,2490,7091,Mini Meals,Lunch,100,Veg,4.6,2490
+L3007,Raja Lunch House,Lunch Center,Anna Nagar,Madurai,4.6,2490,7092,Lemon Rice,Lunch,85,Veg,4.6,2490
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7093,Fish Curry Meals,Lunch,210,Non-Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7094,Egg Biryani,Lunch,170,Non-Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7095,Kothu Parotta (Egg),Lunch,140,Non-Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7096,Sambar Rice,Lunch,90,Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7097,Meals,Lunch,130,Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7098,Lemon Rice,Lunch,85,Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7099,Paneer Butter Masala with Roti,Lunch,170,Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7100,Mushroom Biryani,Lunch,160,Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7101,Chicken Biryani,Lunch,190,Non-Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7102,Mutton Biryani,Lunch,230,Non-Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7103,Mini Meals,Lunch,100,Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7104,Parotta with Kurma,Lunch,100,Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7105,Vegetable Biryani,Lunch,140,Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7106,Curd Rice,Lunch,80,Veg,4.3,4956
+L3008,Ganapathy Mess,Lunch Center,Tallakulam,Madurai,4.3,4956,7107,Ghee Rice with Dal Fry,Lunch,150,Veg,4.3,4956
+L3009,Meenakshi Mess,Lunch Center,Periyar,Madurai,3.6,1367,7108,Mushroom Biryani,Lunch,160,Veg,3.6,1367
+L3009,Meenakshi Mess,Lunch Center,Periyar,Madurai,3.6,1367,7109,Vegetable Biryani,Lunch,140,Veg,3.6,1367
+L3009,Meenakshi Mess,Lunch Center,Periyar,Madurai,3.6,1367,7110,Sambar Rice,Lunch,90,Veg,3.6,1367
+L3009,Meenakshi Mess,Lunch Center,Periyar,Madurai,3.6,1367,7111,Paneer Butter Masala with Roti,Lunch,170,Veg,3.6,1367
+L3009,Meenakshi Mess,Lunch Center,Periyar,Madurai,3.6,1367,7112,Curd Rice,Lunch,80,Veg,3.6,1367
+L3009,Meenakshi Mess,Lunch Center,Periyar,Madurai,3.6,1367,7113,Parotta with Kurma,Lunch,100,Veg,3.6,1367
+L3009,Meenakshi Mess,Lunch Center,Periyar,Madurai,3.6,1367,7114,Lemon Rice,Lunch,85,Veg,3.6,1367
+L3009,Meenakshi Mess,Lunch Center,Periyar,Madurai,3.6,1367,7115,Kothu Parotta (Egg),Lunch,140,Non-Veg,3.6,1367
+L3009,Meenakshi Mess,Lunch Center,Periyar,Madurai,3.6,1367,7116,Ghee Rice with Dal Fry,Lunch,150,Veg,3.6,1367
+L3009,Meenakshi Mess,Lunch Center,Periyar,Madurai,3.6,1367,7117,Chicken Biryani,Lunch,190,Non-Veg,3.6,1367
+L3009,Meenakshi Mess,Lunch Center,Periyar,Madurai,3.6,1367,7118,Mutton Biryani,Lunch,230,Non-Veg,3.6,1367
+L3009,Meenakshi Mess,Lunch Center,Periyar,Madurai,3.6,1367,7119,Mini Meals,Lunch,100,Veg,3.6,1367
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7120,Chicken Biryani,Lunch,190,Non-Veg,3.9,1508
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7121,Mini Meals,Lunch,100,Veg,3.9,1508
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7122,Paneer Butter Masala with Roti,Lunch,170,Veg,3.9,1508
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7123,Ghee Rice with Dal Fry,Lunch,150,Veg,3.9,1508
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7124,Parotta with Kurma,Lunch,100,Veg,3.9,1508
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7125,Mutton Biryani,Lunch,230,Non-Veg,3.9,1508
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7126,Meals,Lunch,130,Veg,3.9,1508
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7127,Vegetable Biryani,Lunch,140,Veg,3.9,1508
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7128,Fish Curry Meals,Lunch,210,Non-Veg,3.9,1508
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7129,Lemon Rice,Lunch,85,Veg,3.9,1508
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7130,Kothu Parotta (Egg),Lunch,140,Non-Veg,3.9,1508
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7131,Mushroom Biryani,Lunch,160,Veg,3.9,1508
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7132,Egg Biryani,Lunch,170,Non-Veg,3.9,1508
+L3010,Madurai Pandiyan Mess,Lunch Center,Tallakulam,Madurai,3.9,1508,7133,Sambar Rice,Lunch,90,Veg,3.9,1508
+L3011,Arunachalam Lunch Home,Lunch Center,Tallakulam,Madurai,4.9,2693,7134,Fish Curry Meals,Lunch,210,Non-Veg,4.9,2693
+L3011,Arunachalam Lunch Home,Lunch Center,Tallakulam,Madurai,4.9,2693,7135,Kothu Parotta (Egg),Lunch,140,Non-Veg,4.9,2693
+L3011,Arunachalam Lunch Home,Lunch Center,Tallakulam,Madurai,4.9,2693,7136,Vegetable Biryani,Lunch,140,Veg,4.9,2693
+L3011,Arunachalam Lunch Home,Lunch Center,Tallakulam,Madurai,4.9,2693,7137,Curd Rice,Lunch,80,Veg,4.9,2693
+L3011,Arunachalam Lunch Home,Lunch Center,Tallakulam,Madurai,4.9,2693,7138,Parotta with Kurma,Lunch,100,Veg,4.9,2693
+L3011,Arunachalam Lunch Home,Lunch Center,Tallakulam,Madurai,4.9,2693,7139,Mini Meals,Lunch,100,Veg,4.9,2693
+L3011,Arunachalam Lunch Home,Lunch Center,Tallakulam,Madurai,4.9,2693,7140,Lemon Rice,Lunch,85,Veg,4.9,2693
+L3011,Arunachalam Lunch Home,Lunch Center,Tallakulam,Madurai,4.9,2693,7141,Meals,Lunch,130,Veg,4.9,2693
+L3011,Arunachalam Lunch Home,Lunch Center,Tallakulam,Madurai,4.9,2693,7142,Mushroom Biryani,Lunch,160,Veg,4.9,2693
+L3011,Arunachalam Lunch Home,Lunch Center,Tallakulam,Madurai,4.9,2693,7143,Mutton Biryani,Lunch,230,Non-Veg,4.9,2693
+L3012,Thangam Mess,Lunch Center,Periyar,Madurai,3.9,1522,7144,Fish Curry Meals,Lunch,210,Non-Veg,3.9,1522
+L3012,Thangam Mess,Lunch Center,Periyar,Madurai,3.9,1522,7145,Mushroom Biryani,Lunch,160,Veg,3.9,1522
+L3012,Thangam Mess,Lunch Center,Periyar,Madurai,3.9,1522,7146,Paneer Butter Masala with Roti,Lunch,170,Veg,3.9,1522
+L3012,Thangam Mess,Lunch Center,Periyar,Madurai,3.9,1522,7147,Sambar Rice,Lunch,90,Veg,3.9,1522
+L3012,Thangam Mess,Lunch Center,Periyar,Madurai,3.9,1522,7148,Curd Rice,Lunch,80,Veg,3.9,1522
+L3012,Thangam Mess,Lunch Center,Periyar,Madurai,3.9,1522,7149,Meals,Lunch,130,Veg,3.9,1522
+L3012,Thangam Mess,Lunch Center,Periyar,Madurai,3.9,1522,7150,Chicken Biryani,Lunch,190,Non-Veg,3.9,1522
+L3012,Thangam Mess,Lunch Center,Periyar,Madurai,3.9,1522,7151,Vegetable Biryani,Lunch,140,Veg,3.9,1522
+L3012,Thangam Mess,Lunch Center,Periyar,Madurai,3.9,1522,7152,Kothu Parotta (Egg),Lunch,140,Non-Veg,3.9,1522
+L3012,Thangam Mess,Lunch Center,Periyar,Madurai,3.9,1522,7153,Lemon Rice,Lunch,85,Veg,3.9,1522
+L3012,Thangam Mess,Lunch Center,Periyar,Madurai,3.9,1522,7154,Mini Meals,Lunch,100,Veg,3.9,1522
+L3012,Thangam Mess,Lunch Center,Periyar,Madurai,3.9,1522,7155,Egg Biryani,Lunch,170,Non-Veg,3.9,1522
+L3013,Muthu Lunch Center,Lunch Center,Anna Nagar,Madurai,3.7,4775,7156,Mini Meals,Lunch,100,Veg,3.7,4775
+L3013,Muthu Lunch Center,Lunch Center,Anna Nagar,Madurai,3.7,4775,7157,Curd Rice,Lunch,80,Veg,3.7,4775
+L3013,Muthu Lunch Center,Lunch Center,Anna Nagar,Madurai,3.7,4775,7158,Parotta with Kurma,Lunch,100,Veg,3.7,4775
+L3013,Muthu Lunch Center,Lunch Center,Anna Nagar,Madurai,3.7,4775,7159,Fish Curry Meals,Lunch,210,Non-Veg,3.7,4775
+L3013,Muthu Lunch Center,Lunch Center,Anna Nagar,Madurai,3.7,4775,7160,Sambar Rice,Lunch,90,Veg,3.7,4775
+L3013,Muthu Lunch Center,Lunch Center,Anna Nagar,Madurai,3.7,4775,7161,Ghee Rice with Dal Fry,Lunch,150,Veg,3.7,4775
+L3013,Muthu Lunch Center,Lunch Center,Anna Nagar,Madurai,3.7,4775,7162,Vegetable Biryani,Lunch,140,Veg,3.7,4775
+L3013,Muthu Lunch Center,Lunch Center,Anna Nagar,Madurai,3.7,4775,7163,Mutton Biryani,Lunch,230,Non-Veg,3.7,4775
+L3013,Muthu Lunch Center,Lunch Center,Anna Nagar,Madurai,3.7,4775,7164,Paneer Butter Masala with Roti,Lunch,170,Veg,3.7,4775
+L3013,Muthu Lunch Center,Lunch Center,Anna Nagar,Madurai,3.7,4775,7165,Mushroom Biryani,Lunch,160,Veg,3.7,4775
+L3013,Muthu Lunch Center,Lunch Center,Anna Nagar,Madurai,3.7,4775,7166,Chicken Biryani,Lunch,190,Non-Veg,3.7,4775
+L3013,Muthu Lunch Center,Lunch Center,Anna Nagar,Madurai,3.7,4775,7167,Egg Biryani,Lunch,170,Non-Veg,3.7,4775
+T6000,Ayyan Tea Stall,Tea Shop,Aarapalayam,Madurai,3.7,614,600001,Milk Tea,Veg,15,Veg,3.7,614
+T6000,Ayyan Tea Stall,Tea Shop,Aarapalayam,Madurai,3.7,614,600002,Black Tea,Veg,12,Veg,3.7,614
+T6000,Ayyan Tea Stall,Tea Shop,Aarapalayam,Madurai,3.7,614,600003,Filter Coffee,Veg,20,Veg,3.7,614
+T6000,Ayyan Tea Stall,Tea Shop,Aarapalayam,Madurai,3.7,614,600004,Puff,Veg,20,Veg,3.7,614
+T6000,Ayyan Tea Stall,Tea Shop,Aarapalayam,Madurai,3.7,614,600005,Samosa,Veg,15,Veg,3.7,614
+T6000,Ayyan Tea Stall,Tea Shop,Aarapalayam,Madurai,3.7,614,600006,Rusk,Veg,15,Veg,3.7,614
+T6000,Ayyan Tea Stall,Tea Shop,Aarapalayam,Madurai,3.7,614,600007,Murukku,Veg,15,Veg,3.7,614
+T6000,Ayyan Tea Stall,Tea Shop,Aarapalayam,Madurai,3.7,614,600008,Peanut Candy,Veg,10,Veg,3.7,614
+T6000,Ayyan Tea Stall,Tea Shop,Aarapalayam,Madurai,3.7,614,600009,Vetti Bun,Veg,15,Veg,3.7,614
+T6000,Ayyan Tea Stall,Tea Shop,Aarapalayam,Madurai,3.7,614,600010,Ginger Tea,Veg,15,Veg,3.7,614
+T6000,Ayyan Tea Stall,Tea Shop,Aarapalayam,Madurai,3.7,614,600011,Coffee,Veg,15,Veg,3.7,614
+T6001,Kannan Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,968,600101,Green Tea,Veg,20,Veg,4.7,968
+T6001,Kannan Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,968,600102,Boost,Veg,20,Veg,4.7,968
+T6001,Kannan Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,968,600103,Tea,Veg,10,Veg,4.7,968
+T6001,Kannan Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,968,600104,Horlicks,Veg,25,Veg,4.7,968
+T6001,Kannan Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,968,600105,Ginger Tea,Veg,15,Veg,4.7,968
+T6001,Kannan Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,968,600106,Coffee,Veg,15,Veg,4.7,968
+T6001,Kannan Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,968,600107,Bajji,Veg,10,Veg,4.7,968
+T6001,Kannan Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,968,600108,Bun Butter Jam,Veg,25,Veg,4.7,968
+T6001,Kannan Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,968,600109,Biscuits,Veg,10,Veg,4.7,968
+T6001,Kannan Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,968,600110,Samosa,Veg,15,Veg,4.7,968
+T6001,Kannan Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,968,600111,Milk Tea,Veg,15,Veg,4.7,968
+T6001,Kannan Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,968,600112,Puff,Veg,20,Veg,4.7,968
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600201,Filter Coffee,Veg,20,Veg,3.5,315
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600202,Vetti Bun,Veg,15,Veg,3.5,315
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600203,Green Tea,Veg,20,Veg,3.5,315
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600204,Sukku Coffee,Veg,20,Veg,3.5,315
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600205,Coffee,Veg,15,Veg,3.5,315
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600206,Biscuits,Veg,10,Veg,3.5,315
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600207,Boost,Veg,20,Veg,3.5,315
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600208,Tea,Veg,10,Veg,3.5,315
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600209,Rusk,Veg,15,Veg,3.5,315
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600210,Bajji,Veg,10,Veg,3.5,315
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600211,Horlicks,Veg,25,Veg,3.5,315
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600212,Masala Tea,Veg,15,Veg,3.5,315
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600213,Black Tea,Veg,12,Veg,3.5,315
+T6002,Sri Krishna Tea Point,Tea Shop,K.K. Nagar,Madurai,3.5,315,600214,Ginger Tea,Veg,15,Veg,3.5,315
+T6003,Vasan Tea Spot,Tea Shop,K.K. Nagar,Madurai,4.5,703,600301,Sukku Coffee,Veg,20,Veg,4.5,703
+T6003,Vasan Tea Spot,Tea Shop,K.K. Nagar,Madurai,4.5,703,600302,Masala Tea,Veg,15,Veg,4.5,703
+T6003,Vasan Tea Spot,Tea Shop,K.K. Nagar,Madurai,4.5,703,600303,Vada,Veg,10,Veg,4.5,703
+T6003,Vasan Tea Spot,Tea Shop,K.K. Nagar,Madurai,4.5,703,600304,Tea,Veg,10,Veg,4.5,703
+T6003,Vasan Tea Spot,Tea Shop,K.K. Nagar,Madurai,4.5,703,600305,Biscuits,Veg,10,Veg,4.5,703
+T6003,Vasan Tea Spot,Tea Shop,K.K. Nagar,Madurai,4.5,703,600306,Bajji,Veg,10,Veg,4.5,703
+T6003,Vasan Tea Spot,Tea Shop,K.K. Nagar,Madurai,4.5,703,600307,Black Tea,Veg,12,Veg,4.5,703
+T6003,Vasan Tea Spot,Tea Shop,K.K. Nagar,Madurai,4.5,703,600308,Bun Butter Jam,Veg,25,Veg,4.5,703
+T6003,Vasan Tea Spot,Tea Shop,K.K. Nagar,Madurai,4.5,703,600309,Samosa,Veg,15,Veg,4.5,703
+T6003,Vasan Tea Spot,Tea Shop,K.K. Nagar,Madurai,4.5,703,600310,Puff,Veg,20,Veg,4.5,703
+T6003,Vasan Tea Spot,Tea Shop,K.K. Nagar,Madurai,4.5,703,600311,Coffee,Veg,15,Veg,4.5,703
+T6003,Vasan Tea Spot,Tea Shop,K.K. Nagar,Madurai,4.5,703,600312,Horlicks,Veg,25,Veg,4.5,703
+T6003,Vasan Tea Spot,Tea Shop,K.K. Nagar,Madurai,4.5,703,600313,Milk Tea,Veg,15,Veg,4.5,703
+T6004,Anbu Tea Shop,Tea Shop,Anna Nagar,Madurai,4.2,518,600401,Rusk,Veg,15,Veg,4.2,518
+T6004,Anbu Tea Shop,Tea Shop,Anna Nagar,Madurai,4.2,518,600402,Biscuits,Veg,10,Veg,4.2,518
+T6004,Anbu Tea Shop,Tea Shop,Anna Nagar,Madurai,4.2,518,600403,Green Tea,Veg,20,Veg,4.2,518
+T6004,Anbu Tea Shop,Tea Shop,Anna Nagar,Madurai,4.2,518,600404,Peanut Candy,Veg,10,Veg,4.2,518
+T6004,Anbu Tea Shop,Tea Shop,Anna Nagar,Madurai,4.2,518,600405,Samosa,Veg,15,Veg,4.2,518
+T6004,Anbu Tea Shop,Tea Shop,Anna Nagar,Madurai,4.2,518,600406,Milk Tea,Veg,15,Veg,4.2,518
+T6004,Anbu Tea Shop,Tea Shop,Anna Nagar,Madurai,4.2,518,600407,Murukku,Veg,15,Veg,4.2,518
+T6004,Anbu Tea Shop,Tea Shop,Anna Nagar,Madurai,4.2,518,600408,Horlicks,Veg,25,Veg,4.2,518
+T6004,Anbu Tea Shop,Tea Shop,Anna Nagar,Madurai,4.2,518,600409,Coffee,Veg,15,Veg,4.2,518
+T6004,Anbu Tea Shop,Tea Shop,Anna Nagar,Madurai,4.2,518,600410,Masala Tea,Veg,15,Veg,4.2,518
+T6004,Anbu Tea Shop,Tea Shop,Anna Nagar,Madurai,4.2,518,600411,Vada,Veg,10,Veg,4.2,518
+T6004,Anbu Tea Shop,Tea Shop,Anna Nagar,Madurai,4.2,518,600412,Vetti Bun,Veg,15,Veg,4.2,518
+T6005,Murugan Tea Corner,Tea Shop,K.K. Nagar,Madurai,4,574,600501,Coffee,Veg,15,Veg,4,574
+T6005,Murugan Tea Corner,Tea Shop,K.K. Nagar,Madurai,4,574,600502,Green Tea,Veg,20,Veg,4,574
+T6005,Murugan Tea Corner,Tea Shop,K.K. Nagar,Madurai,4,574,600503,Black Tea,Veg,12,Veg,4,574
+T6005,Murugan Tea Corner,Tea Shop,K.K. Nagar,Madurai,4,574,600504,Vetti Bun,Veg,15,Veg,4,574
+T6005,Murugan Tea Corner,Tea Shop,K.K. Nagar,Madurai,4,574,600505,Samosa,Veg,15,Veg,4,574
+T6005,Murugan Tea Corner,Tea Shop,K.K. Nagar,Madurai,4,574,600506,Peanut Candy,Veg,10,Veg,4,574
+T6005,Murugan Tea Corner,Tea Shop,K.K. Nagar,Madurai,4,574,600507,Biscuits,Veg,10,Veg,4,574
+T6005,Murugan Tea Corner,Tea Shop,K.K. Nagar,Madurai,4,574,600508,Horlicks,Veg,25,Veg,4,574
+T6005,Murugan Tea Corner,Tea Shop,K.K. Nagar,Madurai,4,574,600509,Boost,Veg,20,Veg,4,574
+T6005,Murugan Tea Corner,Tea Shop,K.K. Nagar,Madurai,4,574,600510,Milk Tea,Veg,15,Veg,4,574
+T6005,Murugan Tea Corner,Tea Shop,K.K. Nagar,Madurai,4,574,600511,Puff,Veg,20,Veg,4,574
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600601,Samosa,Veg,15,Veg,4.2,509
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600602,Milk Tea,Veg,15,Veg,4.2,509
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600603,Biscuits,Veg,10,Veg,4.2,509
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600604,Masala Tea,Veg,15,Veg,4.2,509
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600605,Vetti Bun,Veg,15,Veg,4.2,509
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600606,Murukku,Veg,15,Veg,4.2,509
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600607,Horlicks,Veg,25,Veg,4.2,509
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600608,Green Tea,Veg,20,Veg,4.2,509
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600609,Rusk,Veg,15,Veg,4.2,509
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600610,Vada,Veg,10,Veg,4.2,509
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600611,Ginger Tea,Veg,15,Veg,4.2,509
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600612,Boost,Veg,20,Veg,4.2,509
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600613,Black Tea,Veg,12,Veg,4.2,509
+T6006,Rajendran Tea Stall,Tea Shop,Anna Nagar,Madurai,4.2,509,600614,Peanut Candy,Veg,10,Veg,4.2,509
+T6007,Sri Amman Tea Kadai,Tea Shop,Anna Nagar,Madurai,4.2,530,600701,Boost,Veg,20,Veg,4.2,530
+T6007,Sri Amman Tea Kadai,Tea Shop,Anna Nagar,Madurai,4.2,530,600702,Peanut Candy,Veg,10,Veg,4.2,530
+T6007,Sri Amman Tea Kadai,Tea Shop,Anna Nagar,Madurai,4.2,530,600703,Green Tea,Veg,20,Veg,4.2,530
+T6007,Sri Amman Tea Kadai,Tea Shop,Anna Nagar,Madurai,4.2,530,600704,Bun Butter Jam,Veg,25,Veg,4.2,530
+T6007,Sri Amman Tea Kadai,Tea Shop,Anna Nagar,Madurai,4.2,530,600705,Biscuits,Veg,10,Veg,4.2,530
+T6007,Sri Amman Tea Kadai,Tea Shop,Anna Nagar,Madurai,4.2,530,600706,Sukku Coffee,Veg,20,Veg,4.2,530
+T6007,Sri Amman Tea Kadai,Tea Shop,Anna Nagar,Madurai,4.2,530,600707,Vetti Bun,Veg,15,Veg,4.2,530
+T6007,Sri Amman Tea Kadai,Tea Shop,Anna Nagar,Madurai,4.2,530,600708,Ginger Tea,Veg,15,Veg,4.2,530
+T6007,Sri Amman Tea Kadai,Tea Shop,Anna Nagar,Madurai,4.2,530,600709,Milk Tea,Veg,15,Veg,4.2,530
+T6007,Sri Amman Tea Kadai,Tea Shop,Anna Nagar,Madurai,4.2,530,600710,Bajji,Veg,10,Veg,4.2,530
+T6007,Sri Amman Tea Kadai,Tea Shop,Anna Nagar,Madurai,4.2,530,600711,Masala Tea,Veg,15,Veg,4.2,530
+T6007,Sri Amman Tea Kadai,Tea Shop,Anna Nagar,Madurai,4.2,530,600712,Vada,Veg,10,Veg,4.2,530
+T6008,Sundar Tea Shop,Tea Shop,Periyar,Madurai,4.7,618,600801,Horlicks,Veg,25,Veg,4.7,618
+T6008,Sundar Tea Shop,Tea Shop,Periyar,Madurai,4.7,618,600802,Milk Tea,Veg,15,Veg,4.7,618
+T6008,Sundar Tea Shop,Tea Shop,Periyar,Madurai,4.7,618,600803,Filter Coffee,Veg,20,Veg,4.7,618
+T6008,Sundar Tea Shop,Tea Shop,Periyar,Madurai,4.7,618,600804,Bajji,Veg,10,Veg,4.7,618
+T6008,Sundar Tea Shop,Tea Shop,Periyar,Madurai,4.7,618,600805,Bun Butter Jam,Veg,25,Veg,4.7,618
+T6008,Sundar Tea Shop,Tea Shop,Periyar,Madurai,4.7,618,600806,Samosa,Veg,15,Veg,4.7,618
+T6008,Sundar Tea Shop,Tea Shop,Periyar,Madurai,4.7,618,600807,Boost,Veg,20,Veg,4.7,618
+T6008,Sundar Tea Shop,Tea Shop,Periyar,Madurai,4.7,618,600808,Ginger Tea,Veg,15,Veg,4.7,618
+T6008,Sundar Tea Shop,Tea Shop,Periyar,Madurai,4.7,618,600809,Vada,Veg,10,Veg,4.7,618
+T6008,Sundar Tea Shop,Tea Shop,Periyar,Madurai,4.7,618,600810,Masala Tea,Veg,15,Veg,4.7,618
+T6008,Sundar Tea Shop,Tea Shop,Periyar,Madurai,4.7,618,600811,Coffee,Veg,15,Veg,4.7,618
+T6008,Sundar Tea Shop,Tea Shop,Periyar,Madurai,4.7,618,600812,Rusk,Veg,15,Veg,4.7,618
+T6008,Sundar Tea Shop,Tea Shop,Periyar,Madurai,4.7,618,600813,Green Tea,Veg,20,Veg,4.7,618
+T6009,Jaya Tea House,Tea Shop,Periyar,Madurai,4.8,342,600901,Murukku,Veg,15,Veg,4.8,342
+T6009,Jaya Tea House,Tea Shop,Periyar,Madurai,4.8,342,600902,Green Tea,Veg,20,Veg,4.8,342
+T6009,Jaya Tea House,Tea Shop,Periyar,Madurai,4.8,342,600903,Peanut Candy,Veg,10,Veg,4.8,342
+T6009,Jaya Tea House,Tea Shop,Periyar,Madurai,4.8,342,600904,Rusk,Veg,15,Veg,4.8,342
+T6009,Jaya Tea House,Tea Shop,Periyar,Madurai,4.8,342,600905,Vetti Bun,Veg,15,Veg,4.8,342
+T6009,Jaya Tea House,Tea Shop,Periyar,Madurai,4.8,342,600906,Biscuits,Veg,10,Veg,4.8,342
+T6009,Jaya Tea House,Tea Shop,Periyar,Madurai,4.8,342,600907,Masala Tea,Veg,15,Veg,4.8,342
+T6009,Jaya Tea House,Tea Shop,Periyar,Madurai,4.8,342,600908,Filter Coffee,Veg,20,Veg,4.8,342
+T6009,Jaya Tea House,Tea Shop,Periyar,Madurai,4.8,342,600909,Bun Butter Jam,Veg,25,Veg,4.8,342
+T6009,Jaya Tea House,Tea Shop,Periyar,Madurai,4.8,342,600910,Horlicks,Veg,25,Veg,4.8,342
+T6009,Jaya Tea House,Tea Shop,Periyar,Madurai,4.8,342,600911,Tea,Veg,10,Veg,4.8,342
+T6009,Jaya Tea House,Tea Shop,Periyar,Madurai,4.8,342,600912,Puff,Veg,20,Veg,4.8,342
+T6009,Jaya Tea House,Tea Shop,Periyar,Madurai,4.8,342,600913,Vada,Veg,10,Veg,4.8,342
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601001,Masala Tea,Veg,15,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601002,Peanut Candy,Veg,10,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601003,Vada,Veg,10,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601004,Black Tea,Veg,12,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601005,Milk Tea,Veg,15,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601006,Samosa,Veg,15,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601007,Ginger Tea,Veg,15,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601008,Bajji,Veg,10,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601009,Bun Butter Jam,Veg,25,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601010,Tea,Veg,10,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601011,Puff,Veg,20,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601012,Biscuits,Veg,10,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601013,Coffee,Veg,15,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601014,Boost,Veg,20,Veg,3.8,427
+T6010,Senthil Tea Point,Tea Shop,Goripalayam,Madurai,3.8,427,601015,Green Tea,Veg,20,Veg,3.8,427
+T6011,Ganesh Tea Kadai,Tea Shop,Aarapalayam,Madurai,4.8,481,601101,Ginger Tea,Veg,15,Veg,4.8,481
+T6011,Ganesh Tea Kadai,Tea Shop,Aarapalayam,Madurai,4.8,481,601102,Vetti Bun,Veg,15,Veg,4.8,481
+T6011,Ganesh Tea Kadai,Tea Shop,Aarapalayam,Madurai,4.8,481,601103,Biscuits,Veg,10,Veg,4.8,481
+T6011,Ganesh Tea Kadai,Tea Shop,Aarapalayam,Madurai,4.8,481,601104,Peanut Candy,Veg,10,Veg,4.8,481
+T6011,Ganesh Tea Kadai,Tea Shop,Aarapalayam,Madurai,4.8,481,601105,Boost,Veg,20,Veg,4.8,481
+T6011,Ganesh Tea Kadai,Tea Shop,Aarapalayam,Madurai,4.8,481,601106,Samosa,Veg,15,Veg,4.8,481
+T6011,Ganesh Tea Kadai,Tea Shop,Aarapalayam,Madurai,4.8,481,601107,Black Tea,Veg,12,Veg,4.8,481
+T6011,Ganesh Tea Kadai,Tea Shop,Aarapalayam,Madurai,4.8,481,601108,Rusk,Veg,15,Veg,4.8,481
+T6011,Ganesh Tea Kadai,Tea Shop,Aarapalayam,Madurai,4.8,481,601109,Tea,Veg,10,Veg,4.8,481
+T6011,Ganesh Tea Kadai,Tea Shop,Aarapalayam,Madurai,4.8,481,601110,Puff,Veg,20,Veg,4.8,481
+T6011,Ganesh Tea Kadai,Tea Shop,Aarapalayam,Madurai,4.8,481,601111,Sukku Coffee,Veg,20,Veg,4.8,481
+T6011,Ganesh Tea Kadai,Tea Shop,Aarapalayam,Madurai,4.8,481,601112,Milk Tea,Veg,15,Veg,4.8,481
+T6011,Ganesh Tea Kadai,Tea Shop,Aarapalayam,Madurai,4.8,481,601113,Bajji,Veg,10,Veg,4.8,481
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601201,Green Tea,Veg,20,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601202,Vetti Bun,Veg,15,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601203,Biscuits,Veg,10,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601204,Filter Coffee,Veg,20,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601205,Ginger Tea,Veg,15,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601206,Vada,Veg,10,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601207,Bajji,Veg,10,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601208,Milk Tea,Veg,15,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601209,Black Tea,Veg,12,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601210,Tea,Veg,10,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601211,Horlicks,Veg,25,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601212,Coffee,Veg,15,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601213,Peanut Candy,Veg,10,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601214,Bun Butter Jam,Veg,25,Veg,3.8,963
+T6012,Arun Tea Stall,Tea Shop,Aarapalayam,Madurai,3.8,963,601215,Puff,Veg,20,Veg,3.8,963
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601301,Samosa,Veg,15,Veg,4,194
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601302,Milk Tea,Veg,15,Veg,4,194
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601303,Boost,Veg,20,Veg,4,194
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601304,Horlicks,Veg,25,Veg,4,194
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601305,Vada,Veg,10,Veg,4,194
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601306,Puff,Veg,20,Veg,4,194
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601307,Green Tea,Veg,20,Veg,4,194
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601308,Masala Tea,Veg,15,Veg,4,194
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601309,Tea,Veg,10,Veg,4,194
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601310,Ginger Tea,Veg,15,Veg,4,194
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601311,Bajji,Veg,10,Veg,4,194
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601312,Vetti Bun,Veg,15,Veg,4,194
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601313,Coffee,Veg,15,Veg,4,194
+T6013,Karthik Tea Shop,Tea Shop,Periyar,Madurai,4,194,601314,Biscuits,Veg,10,Veg,4,194
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601401,Rusk,Veg,15,Veg,4.4,185
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601402,Masala Tea,Veg,15,Veg,4.4,185
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601403,Biscuits,Veg,10,Veg,4.4,185
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601404,Bun Butter Jam,Veg,25,Veg,4.4,185
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601405,Coffee,Veg,15,Veg,4.4,185
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601406,Filter Coffee,Veg,20,Veg,4.4,185
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601407,Vetti Bun,Veg,15,Veg,4.4,185
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601408,Samosa,Veg,15,Veg,4.4,185
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601409,Green Tea,Veg,20,Veg,4.4,185
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601410,Puff,Veg,20,Veg,4.4,185
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601411,Peanut Candy,Veg,10,Veg,4.4,185
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601412,Vada,Veg,10,Veg,4.4,185
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601413,Sukku Coffee,Veg,20,Veg,4.4,185
+T6014,Raja Tea Spot,Tea Shop,Aarapalayam,Madurai,4.4,185,601414,Boost,Veg,20,Veg,4.4,185
+T6015,Siva Tea Kadai,Tea Shop,Simmakkal,Madurai,4.2,956,601501,Biscuits,Veg,10,Veg,4.2,956
+T6015,Siva Tea Kadai,Tea Shop,Simmakkal,Madurai,4.2,956,601502,Vetti Bun,Veg,15,Veg,4.2,956
+T6015,Siva Tea Kadai,Tea Shop,Simmakkal,Madurai,4.2,956,601503,Samosa,Veg,15,Veg,4.2,956
+T6015,Siva Tea Kadai,Tea Shop,Simmakkal,Madurai,4.2,956,601504,Ginger Tea,Veg,15,Veg,4.2,956
+T6015,Siva Tea Kadai,Tea Shop,Simmakkal,Madurai,4.2,956,601505,Black Tea,Veg,12,Veg,4.2,956
+T6015,Siva Tea Kadai,Tea Shop,Simmakkal,Madurai,4.2,956,601506,Puff,Veg,20,Veg,4.2,956
+T6015,Siva Tea Kadai,Tea Shop,Simmakkal,Madurai,4.2,956,601507,Filter Coffee,Veg,20,Veg,4.2,956
+T6015,Siva Tea Kadai,Tea Shop,Simmakkal,Madurai,4.2,956,601508,Milk Tea,Veg,15,Veg,4.2,956
+T6015,Siva Tea Kadai,Tea Shop,Simmakkal,Madurai,4.2,956,601509,Green Tea,Veg,20,Veg,4.2,956
+T6015,Siva Tea Kadai,Tea Shop,Simmakkal,Madurai,4.2,956,601510,Tea,Veg,10,Veg,4.2,956
+T6015,Siva Tea Kadai,Tea Shop,Simmakkal,Madurai,4.2,956,601511,Rusk,Veg,15,Veg,4.2,956
+T6015,Siva Tea Kadai,Tea Shop,Simmakkal,Madurai,4.2,956,601512,Vada,Veg,10,Veg,4.2,956
+T6015,Siva Tea Kadai,Tea Shop,Simmakkal,Madurai,4.2,956,601513,Masala Tea,Veg,15,Veg,4.2,956
+T6016,Vetri Tea Corner,Tea Shop,K.K. Nagar,Madurai,3.6,551,601601,Samosa,Veg,15,Veg,3.6,551
+T6016,Vetri Tea Corner,Tea Shop,K.K. Nagar,Madurai,3.6,551,601602,Masala Tea,Veg,15,Veg,3.6,551
+T6016,Vetri Tea Corner,Tea Shop,K.K. Nagar,Madurai,3.6,551,601603,Rusk,Veg,15,Veg,3.6,551
+T6016,Vetri Tea Corner,Tea Shop,K.K. Nagar,Madurai,3.6,551,601604,Vada,Veg,10,Veg,3.6,551
+T6016,Vetri Tea Corner,Tea Shop,K.K. Nagar,Madurai,3.6,551,601605,Sukku Coffee,Veg,20,Veg,3.6,551
+T6016,Vetri Tea Corner,Tea Shop,K.K. Nagar,Madurai,3.6,551,601606,Green Tea,Veg,20,Veg,3.6,551
+T6016,Vetri Tea Corner,Tea Shop,K.K. Nagar,Madurai,3.6,551,601607,Bajji,Veg,10,Veg,3.6,551
+T6016,Vetri Tea Corner,Tea Shop,K.K. Nagar,Madurai,3.6,551,601608,Peanut Candy,Veg,10,Veg,3.6,551
+T6016,Vetri Tea Corner,Tea Shop,K.K. Nagar,Madurai,3.6,551,601609,Puff,Veg,20,Veg,3.6,551
+T6016,Vetri Tea Corner,Tea Shop,K.K. Nagar,Madurai,3.6,551,601610,Coffee,Veg,15,Veg,3.6,551
+T6016,Vetri Tea Corner,Tea Shop,K.K. Nagar,Madurai,3.6,551,601611,Murukku,Veg,15,Veg,3.6,551
+T6017,Selvam Tea Stall,Tea Shop,K.K. Nagar,Madurai,4.4,842,601701,Murukku,Veg,15,Veg,4.4,842
+T6017,Selvam Tea Stall,Tea Shop,K.K. Nagar,Madurai,4.4,842,601702,Filter Coffee,Veg,20,Veg,4.4,842
+T6017,Selvam Tea Stall,Tea Shop,K.K. Nagar,Madurai,4.4,842,601703,Biscuits,Veg,10,Veg,4.4,842
+T6017,Selvam Tea Stall,Tea Shop,K.K. Nagar,Madurai,4.4,842,601704,Vada,Veg,10,Veg,4.4,842
+T6017,Selvam Tea Stall,Tea Shop,K.K. Nagar,Madurai,4.4,842,601705,Peanut Candy,Veg,10,Veg,4.4,842
+T6017,Selvam Tea Stall,Tea Shop,K.K. Nagar,Madurai,4.4,842,601706,Samosa,Veg,15,Veg,4.4,842
+T6017,Selvam Tea Stall,Tea Shop,K.K. Nagar,Madurai,4.4,842,601707,Boost,Veg,20,Veg,4.4,842
+T6017,Selvam Tea Stall,Tea Shop,K.K. Nagar,Madurai,4.4,842,601708,Black Tea,Veg,12,Veg,4.4,842
+T6017,Selvam Tea Stall,Tea Shop,K.K. Nagar,Madurai,4.4,842,601709,Rusk,Veg,15,Veg,4.4,842
+T6017,Selvam Tea Stall,Tea Shop,K.K. Nagar,Madurai,4.4,842,601710,Masala Tea,Veg,15,Veg,4.4,842
+T6017,Selvam Tea Stall,Tea Shop,K.K. Nagar,Madurai,4.4,842,601711,Green Tea,Veg,20,Veg,4.4,842
+T6018,Maha Tea House,Tea Shop,Simmakkal,Madurai,3.7,865,601801,Murukku,Veg,15,Veg,3.7,865
+T6018,Maha Tea House,Tea Shop,Simmakkal,Madurai,3.7,865,601802,Horlicks,Veg,25,Veg,3.7,865
+T6018,Maha Tea House,Tea Shop,Simmakkal,Madurai,3.7,865,601803,Boost,Veg,20,Veg,3.7,865
+T6018,Maha Tea House,Tea Shop,Simmakkal,Madurai,3.7,865,601804,Bajji,Veg,10,Veg,3.7,865
+T6018,Maha Tea House,Tea Shop,Simmakkal,Madurai,3.7,865,601805,Sukku Coffee,Veg,20,Veg,3.7,865
+T6018,Maha Tea House,Tea Shop,Simmakkal,Madurai,3.7,865,601806,Milk Tea,Veg,15,Veg,3.7,865
+T6018,Maha Tea House,Tea Shop,Simmakkal,Madurai,3.7,865,601807,Filter Coffee,Veg,20,Veg,3.7,865
+T6018,Maha Tea House,Tea Shop,Simmakkal,Madurai,3.7,865,601808,Samosa,Veg,15,Veg,3.7,865
+T6018,Maha Tea House,Tea Shop,Simmakkal,Madurai,3.7,865,601809,Coffee,Veg,15,Veg,3.7,865
+T6018,Maha Tea House,Tea Shop,Simmakkal,Madurai,3.7,865,601810,Bun Butter Jam,Veg,25,Veg,3.7,865
+T6019,Thangam Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,103,601901,Boost,Veg,20,Veg,4.7,103
+T6019,Thangam Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,103,601902,Vetti Bun,Veg,15,Veg,4.7,103
+T6019,Thangam Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,103,601903,Milk Tea,Veg,15,Veg,4.7,103
+T6019,Thangam Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,103,601904,Biscuits,Veg,10,Veg,4.7,103
+T6019,Thangam Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,103,601905,Bun Butter Jam,Veg,25,Veg,4.7,103
+T6019,Thangam Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,103,601906,Horlicks,Veg,25,Veg,4.7,103
+T6019,Thangam Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,103,601907,Bajji,Veg,10,Veg,4.7,103
+T6019,Thangam Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,103,601908,Peanut Candy,Veg,10,Veg,4.7,103
+T6019,Thangam Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,103,601909,Green Tea,Veg,20,Veg,4.7,103
+T6019,Thangam Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,103,601910,Coffee,Veg,15,Veg,4.7,103
+T6019,Thangam Tea Kadai,Tea Shop,Simmakkal,Madurai,4.7,103,601911,Vada,Veg,10,Veg,4.7,103
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5001,Vada,Breakfast,12,Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5002,Poori,Breakfast,32,Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5003,Ghee Roast,Breakfast,79,Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5004,Kesari,Breakfast,24,Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5005,Rava Dosa,Breakfast,53,Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5006,Pongal,Breakfast,43,Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5007,Masala Dosa,Breakfast,65,Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5008,Dosa,Breakfast,41,Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5009,Idli,Breakfast,10,Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5010,Filter Coffee,Breakfast,16,Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5011,Mutton Kari Dosa,Breakfast,147,Non-Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5012,Egg Dosa,Breakfast,65,Non-Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5013,Chicken 65,Breakfast,125,Non-Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5014,Chicken Dosa,Breakfast,113,Non-Veg,4,2869
+TF1001,Gowri Krishna,Tiffin Center,Thiruparankundram,Madurai,4,2869,5015,Chicken Kothu Parotta,Breakfast,112,Non-Veg,4,2869
+TF1002,Sri Annapoorna,Tiffin Center,Anna Nagar,Madurai,4.3,4145,5016,Kesari,Breakfast,33,Veg,4.3,4145
+TF1002,Sri Annapoorna,Tiffin Center,Anna Nagar,Madurai,4.3,4145,5017,Poori,Breakfast,40,Veg,4.3,4145
+TF1002,Sri Annapoorna,Tiffin Center,Anna Nagar,Madurai,4.3,4145,5018,Pongal,Breakfast,54,Veg,4.3,4145
+TF1002,Sri Annapoorna,Tiffin Center,Anna Nagar,Madurai,4.3,4145,5019,Ghee Roast,Breakfast,62,Veg,4.3,4145
+TF1002,Sri Annapoorna,Tiffin Center,Anna Nagar,Madurai,4.3,4145,5020,Rava Dosa,Breakfast,43,Veg,4.3,4145
+TF1002,Sri Annapoorna,Tiffin Center,Anna Nagar,Madurai,4.3,4145,5021,Filter Coffee,Breakfast,19,Veg,4.3,4145
+TF1002,Sri Annapoorna,Tiffin Center,Anna Nagar,Madurai,4.3,4145,5022,Masala Dosa,Breakfast,63,Veg,4.3,4145
+TF1002,Sri Annapoorna,Tiffin Center,Anna Nagar,Madurai,4.3,4145,5023,Idli,Breakfast,15,Veg,4.3,4145
+TF1002,Sri Annapoorna,Tiffin Center,Anna Nagar,Madurai,4.3,4145,5024,Vada,Breakfast,15,Veg,4.3,4145
+TF1002,Sri Annapoorna,Tiffin Center,Anna Nagar,Madurai,4.3,4145,5025,Dosa,Breakfast,42,Veg,4.3,4145
+TF1003,Saravana Bhavan,Tiffin Center,KK Nagar,Madurai,3.9,3282,5026,Dosa,Breakfast,34,Veg,3.9,3282
+TF1003,Saravana Bhavan,Tiffin Center,KK Nagar,Madurai,3.9,3282,5027,Kesari,Breakfast,34,Veg,3.9,3282
+TF1003,Saravana Bhavan,Tiffin Center,KK Nagar,Madurai,3.9,3282,5028,Vada,Breakfast,14,Veg,3.9,3282
+TF1003,Saravana Bhavan,Tiffin Center,KK Nagar,Madurai,3.9,3282,5029,Pongal,Breakfast,43,Veg,3.9,3282
+TF1003,Saravana Bhavan,Tiffin Center,KK Nagar,Madurai,3.9,3282,5030,Filter Coffee,Breakfast,15,Veg,3.9,3282
+TF1003,Saravana Bhavan,Tiffin Center,KK Nagar,Madurai,3.9,3282,5031,Ghee Roast,Breakfast,74,Veg,3.9,3282
+TF1003,Saravana Bhavan,Tiffin Center,KK Nagar,Madurai,3.9,3282,5032,Idli,Breakfast,14,Veg,3.9,3282
+TF1003,Saravana Bhavan,Tiffin Center,KK Nagar,Madurai,3.9,3282,5033,Poori,Breakfast,39,Veg,3.9,3282
+TF1003,Saravana Bhavan,Tiffin Center,KK Nagar,Madurai,3.9,3282,5034,Rava Dosa,Breakfast,55,Veg,3.9,3282
+TF1003,Saravana Bhavan,Tiffin Center,KK Nagar,Madurai,3.9,3282,5035,Masala Dosa,Breakfast,58,Veg,3.9,3282
+TF1004,A2B Veg Corner,Tiffin Center,Simmakkal,Madurai,4.1,4502,5036,Vada,Breakfast,13,Veg,4.1,4502
+TF1004,A2B Veg Corner,Tiffin Center,Simmakkal,Madurai,4.1,4502,5037,Dosa,Breakfast,34,Veg,4.1,4502
+TF1004,A2B Veg Corner,Tiffin Center,Simmakkal,Madurai,4.1,4502,5038,Idli,Breakfast,10,Veg,4.1,4502
+TF1004,A2B Veg Corner,Tiffin Center,Simmakkal,Madurai,4.1,4502,5039,Poori,Breakfast,42,Veg,4.1,4502
+TF1004,A2B Veg Corner,Tiffin Center,Simmakkal,Madurai,4.1,4502,5040,Kesari,Breakfast,33,Veg,4.1,4502
+TF1004,A2B Veg Corner,Tiffin Center,Simmakkal,Madurai,4.1,4502,5041,Masala Dosa,Breakfast,62,Veg,4.1,4502
+TF1004,A2B Veg Corner,Tiffin Center,Simmakkal,Madurai,4.1,4502,5042,Ghee Roast,Breakfast,61,Veg,4.1,4502
+TF1004,A2B Veg Corner,Tiffin Center,Simmakkal,Madurai,4.1,4502,5043,Filter Coffee,Breakfast,15,Veg,4.1,4502
+TF1004,A2B Veg Corner,Tiffin Center,Simmakkal,Madurai,4.1,4502,5044,Pongal,Breakfast,44,Veg,4.1,4502
+TF1004,A2B Veg Corner,Tiffin Center,Simmakkal,Madurai,4.1,4502,5045,Rava Dosa,Breakfast,52,Veg,4.1,4502
+TF1005,Madurai Murugan Tiffin,Tiffin Center,Villapuram,Madurai,3.6,3628,5046,Dosa,Breakfast,40,Veg,3.6,3628
+TF1005,Madurai Murugan Tiffin,Tiffin Center,Villapuram,Madurai,3.6,3628,5047,Pongal,Breakfast,51,Veg,3.6,3628
+TF1005,Madurai Murugan Tiffin,Tiffin Center,Villapuram,Madurai,3.6,3628,5048,Filter Coffee,Breakfast,22,Veg,3.6,3628
+TF1005,Madurai Murugan Tiffin,Tiffin Center,Villapuram,Madurai,3.6,3628,5049,Masala Dosa,Breakfast,65,Veg,3.6,3628
+TF1005,Madurai Murugan Tiffin,Tiffin Center,Villapuram,Madurai,3.6,3628,5050,Vada,Breakfast,16,Veg,3.6,3628
+TF1005,Madurai Murugan Tiffin,Tiffin Center,Villapuram,Madurai,3.6,3628,5051,Poori,Breakfast,32,Veg,3.6,3628
+TF1005,Madurai Murugan Tiffin,Tiffin Center,Villapuram,Madurai,3.6,3628,5052,Idli,Breakfast,11,Veg,3.6,3628
+TF1005,Madurai Murugan Tiffin,Tiffin Center,Villapuram,Madurai,3.6,3628,5053,Ghee Roast,Breakfast,77,Veg,3.6,3628
+TF1005,Madurai Murugan Tiffin,Tiffin Center,Villapuram,Madurai,3.6,3628,5054,Rava Dosa,Breakfast,40,Veg,3.6,3628
+TF1005,Madurai Murugan Tiffin,Tiffin Center,Villapuram,Madurai,3.6,3628,5055,Kesari,Breakfast,32,Veg,3.6,3628
+TF1006,Sri Ram Mess,Tiffin Center,Villapuram,Madurai,4.1,2013,5056,Vada,Breakfast,17,Veg,4.1,2013
+TF1006,Sri Ram Mess,Tiffin Center,Villapuram,Madurai,4.1,2013,5057,Filter Coffee,Breakfast,21,Veg,4.1,2013
+TF1006,Sri Ram Mess,Tiffin Center,Villapuram,Madurai,4.1,2013,5058,Masala Dosa,Breakfast,58,Veg,4.1,2013
+TF1006,Sri Ram Mess,Tiffin Center,Villapuram,Madurai,4.1,2013,5059,Dosa,Breakfast,39,Veg,4.1,2013
+TF1006,Sri Ram Mess,Tiffin Center,Villapuram,Madurai,4.1,2013,5060,Ghee Roast,Breakfast,71,Veg,4.1,2013
+TF1006,Sri Ram Mess,Tiffin Center,Villapuram,Madurai,4.1,2013,5061,Rava Dosa,Breakfast,51,Veg,4.1,2013
+TF1006,Sri Ram Mess,Tiffin Center,Villapuram,Madurai,4.1,2013,5062,Idli,Breakfast,13,Veg,4.1,2013
+TF1006,Sri Ram Mess,Tiffin Center,Villapuram,Madurai,4.1,2013,5063,Poori,Breakfast,36,Veg,4.1,2013
+TF1006,Sri Ram Mess,Tiffin Center,Villapuram,Madurai,4.1,2013,5064,Pongal,Breakfast,42,Veg,4.1,2013
+TF1006,Sri Ram Mess,Tiffin Center,Villapuram,Madurai,4.1,2013,5065,Kesari,Breakfast,23,Veg,4.1,2013
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5066,Filter Coffee,Breakfast,22,Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5067,Idli,Breakfast,15,Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5068,Dosa,Breakfast,42,Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5069,Poori,Breakfast,50,Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5070,Rava Dosa,Breakfast,48,Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5071,Ghee Roast,Breakfast,72,Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5072,Vada,Breakfast,15,Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5073,Pongal,Breakfast,52,Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5074,Kesari,Breakfast,32,Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5075,Masala Dosa,Breakfast,67,Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5076,Nattu Kozhi Kuzhambu,Breakfast,154,Non-Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5077,Chicken Kothu Parotta,Breakfast,98,Non-Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5078,Omelette,Breakfast,21,Non-Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5079,Chicken 65,Breakfast,117,Non-Veg,4.1,823
+TF1007,Anand Bhavan,Tiffin Center,Periyar,Madurai,4.1,823,5080,Mutton Kari Dosa,Breakfast,142,Non-Veg,4.1,823
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5081,Dosa,Breakfast,31,Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5082,Idli,Breakfast,13,Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5083,Poori,Breakfast,48,Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5084,Kesari,Breakfast,21,Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5085,Rava Dosa,Breakfast,42,Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5086,Ghee Roast,Breakfast,65,Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5087,Pongal,Breakfast,41,Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5088,Masala Dosa,Breakfast,50,Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5089,Vada,Breakfast,15,Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5090,Filter Coffee,Breakfast,15,Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5091,Chicken Dosa,Breakfast,112,Non-Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5092,Chicken Kothu Parotta,Breakfast,115,Non-Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5093,Mutton Curry Dosai,Breakfast,138,Non-Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5094,Nattu Kozhi Kuzhambu,Breakfast,169,Non-Veg,3.7,2463
+TF1008,Shree Balaji Tiffin,Tiffin Center,Goripalayam,Madurai,3.7,2463,5095,Mutton Kari Dosa,Breakfast,138,Non-Veg,3.7,2463
+TF1009,Sangeetha Veg Spot,Tiffin Center,Thiruparankundram,Madurai,3.6,1968,5096,Poori,Breakfast,35,Veg,3.6,1968
+TF1009,Sangeetha Veg Spot,Tiffin Center,Thiruparankundram,Madurai,3.6,1968,5097,Filter Coffee,Breakfast,15,Veg,3.6,1968
+TF1009,Sangeetha Veg Spot,Tiffin Center,Thiruparankundram,Madurai,3.6,1968,5098,Pongal,Breakfast,46,Veg,3.6,1968
+TF1009,Sangeetha Veg Spot,Tiffin Center,Thiruparankundram,Madurai,3.6,1968,5099,Kesari,Breakfast,23,Veg,3.6,1968
+TF1009,Sangeetha Veg Spot,Tiffin Center,Thiruparankundram,Madurai,3.6,1968,5100,Ghee Roast,Breakfast,73,Veg,3.6,1968
+TF1009,Sangeetha Veg Spot,Tiffin Center,Thiruparankundram,Madurai,3.6,1968,5101,Masala Dosa,Breakfast,66,Veg,3.6,1968
+TF1009,Sangeetha Veg Spot,Tiffin Center,Thiruparankundram,Madurai,3.6,1968,5102,Dosa,Breakfast,48,Veg,3.6,1968
+TF1009,Sangeetha Veg Spot,Tiffin Center,Thiruparankundram,Madurai,3.6,1968,5103,Vada,Breakfast,15,Veg,3.6,1968
+TF1009,Sangeetha Veg Spot,Tiffin Center,Thiruparankundram,Madurai,3.6,1968,5104,Rava Dosa,Breakfast,56,Veg,3.6,1968
+TF1009,Sangeetha Veg Spot,Tiffin Center,Thiruparankundram,Madurai,3.6,1968,5105,Idli,Breakfast,13,Veg,3.6,1968
+TF1010,Lakshmi Narayana Bhavan,Tiffin Center,Kalavasal,Madurai,4.7,1618,5106,Poori,Breakfast,32,Veg,4.7,1618
+TF1010,Lakshmi Narayana Bhavan,Tiffin Center,Kalavasal,Madurai,4.7,1618,5107,Kesari,Breakfast,21,Veg,4.7,1618
+TF1010,Lakshmi Narayana Bhavan,Tiffin Center,Kalavasal,Madurai,4.7,1618,5108,Vada,Breakfast,18,Veg,4.7,1618
+TF1010,Lakshmi Narayana Bhavan,Tiffin Center,Kalavasal,Madurai,4.7,1618,5109,Masala Dosa,Breakfast,56,Veg,4.7,1618
+TF1010,Lakshmi Narayana Bhavan,Tiffin Center,Kalavasal,Madurai,4.7,1618,5110,Pongal,Breakfast,58,Veg,4.7,1618
+TF1010,Lakshmi Narayana Bhavan,Tiffin Center,Kalavasal,Madurai,4.7,1618,5111,Idli,Breakfast,12,Veg,4.7,1618
+TF1010,Lakshmi Narayana Bhavan,Tiffin Center,Kalavasal,Madurai,4.7,1618,5112,Ghee Roast,Breakfast,67,Veg,4.7,1618
+TF1010,Lakshmi Narayana Bhavan,Tiffin Center,Kalavasal,Madurai,4.7,1618,5113,Dosa,Breakfast,40,Veg,4.7,1618
+TF1010,Lakshmi Narayana Bhavan,Tiffin Center,Kalavasal,Madurai,4.7,1618,5114,Rava Dosa,Breakfast,41,Veg,4.7,1618
+TF1010,Lakshmi Narayana Bhavan,Tiffin Center,Kalavasal,Madurai,4.7,1618,5115,Filter Coffee,Breakfast,22,Veg,4.7,1618
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5116,Ghee Roast,Breakfast,72,Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5117,Masala Dosa,Breakfast,58,Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5118,Pongal,Breakfast,55,Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5119,Vada,Breakfast,17,Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5120,Kesari,Breakfast,25,Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5121,Rava Dosa,Breakfast,45,Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5122,Idli,Breakfast,14,Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5123,Dosa,Breakfast,45,Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5124,Filter Coffee,Breakfast,22,Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5125,Poori,Breakfast,47,Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5126,Nattu Kozhi Kuzhambu,Breakfast,177,Non-Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5127,Chicken 65,Breakfast,134,Non-Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5128,Chicken Dosa,Breakfast,113,Non-Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5129,Egg Parotta,Breakfast,53,Non-Veg,4.1,1013
+TF1011,Hotel Vaigai,Tiffin Center,KK Nagar,Madurai,4.1,1013,5130,Bun Omelette,Breakfast,47,Non-Veg,4.1,1013
+TF1012,Pandiyan Tiffin House,Tiffin Center,Theppakulam,Madurai,4.6,715,5131,Filter Coffee,Breakfast,21,Veg,4.6,715
+TF1012,Pandiyan Tiffin House,Tiffin Center,Theppakulam,Madurai,4.6,715,5132,Vada,Breakfast,13,Veg,4.6,715
+TF1012,Pandiyan Tiffin House,Tiffin Center,Theppakulam,Madurai,4.6,715,5133,Masala Dosa,Breakfast,60,Veg,4.6,715
+TF1012,Pandiyan Tiffin House,Tiffin Center,Theppakulam,Madurai,4.6,715,5134,Rava Dosa,Breakfast,43,Veg,4.6,715
+TF1012,Pandiyan Tiffin House,Tiffin Center,Theppakulam,Madurai,4.6,715,5135,Ghee Roast,Breakfast,61,Veg,4.6,715
+TF1012,Pandiyan Tiffin House,Tiffin Center,Theppakulam,Madurai,4.6,715,5136,Kesari,Breakfast,24,Veg,4.6,715
+TF1012,Pandiyan Tiffin House,Tiffin Center,Theppakulam,Madurai,4.6,715,5137,Poori,Breakfast,35,Veg,4.6,715
+TF1012,Pandiyan Tiffin House,Tiffin Center,Theppakulam,Madurai,4.6,715,5138,Idli,Breakfast,14,Veg,4.6,715
+TF1012,Pandiyan Tiffin House,Tiffin Center,Theppakulam,Madurai,4.6,715,5139,Dosa,Breakfast,44,Veg,4.6,715
+TF1012,Pandiyan Tiffin House,Tiffin Center,Theppakulam,Madurai,4.6,715,5140,Pongal,Breakfast,42,Veg,4.6,715
+TF1013,Sri Venkateswara Mess,Tiffin Center,Anna Nagar,Madurai,4.4,1221,5141,Masala Dosa,Breakfast,60,Veg,4.4,1221
+TF1013,Sri Venkateswara Mess,Tiffin Center,Anna Nagar,Madurai,4.4,1221,5142,Pongal,Breakfast,41,Veg,4.4,1221
+TF1013,Sri Venkateswara Mess,Tiffin Center,Anna Nagar,Madurai,4.4,1221,5143,Filter Coffee,Breakfast,21,Veg,4.4,1221
+TF1013,Sri Venkateswara Mess,Tiffin Center,Anna Nagar,Madurai,4.4,1221,5144,Idli,Breakfast,15,Veg,4.4,1221
+TF1013,Sri Venkateswara Mess,Tiffin Center,Anna Nagar,Madurai,4.4,1221,5145,Rava Dosa,Breakfast,56,Veg,4.4,1221
+TF1013,Sri Venkateswara Mess,Tiffin Center,Anna Nagar,Madurai,4.4,1221,5146,Dosa,Breakfast,44,Veg,4.4,1221
+TF1013,Sri Venkateswara Mess,Tiffin Center,Anna Nagar,Madurai,4.4,1221,5147,Ghee Roast,Breakfast,68,Veg,4.4,1221
+TF1013,Sri Venkateswara Mess,Tiffin Center,Anna Nagar,Madurai,4.4,1221,5148,Vada,Breakfast,14,Veg,4.4,1221
+TF1013,Sri Venkateswara Mess,Tiffin Center,Anna Nagar,Madurai,4.4,1221,5149,Poori,Breakfast,49,Veg,4.4,1221
+TF1013,Sri Venkateswara Mess,Tiffin Center,Anna Nagar,Madurai,4.4,1221,5150,Kesari,Breakfast,21,Veg,4.4,1221
+TF1014,Royal Veg Plaza,Tiffin Center,Anna Nagar,Madurai,4.5,1373,5151,Idli,Breakfast,11,Veg,4.5,1373
+TF1014,Royal Veg Plaza,Tiffin Center,Anna Nagar,Madurai,4.5,1373,5152,Pongal,Breakfast,45,Veg,4.5,1373
+TF1014,Royal Veg Plaza,Tiffin Center,Anna Nagar,Madurai,4.5,1373,5153,Masala Dosa,Breakfast,57,Veg,4.5,1373
+TF1014,Royal Veg Plaza,Tiffin Center,Anna Nagar,Madurai,4.5,1373,5154,Filter Coffee,Breakfast,18,Veg,4.5,1373
+TF1014,Royal Veg Plaza,Tiffin Center,Anna Nagar,Madurai,4.5,1373,5155,Poori,Breakfast,34,Veg,4.5,1373
+TF1014,Royal Veg Plaza,Tiffin Center,Anna Nagar,Madurai,4.5,1373,5156,Vada,Breakfast,17,Veg,4.5,1373
+TF1014,Royal Veg Plaza,Tiffin Center,Anna Nagar,Madurai,4.5,1373,5157,Kesari,Breakfast,34,Veg,4.5,1373
+TF1014,Royal Veg Plaza,Tiffin Center,Anna Nagar,Madurai,4.5,1373,5158,Ghee Roast,Breakfast,74,Veg,4.5,1373
+TF1014,Royal Veg Plaza,Tiffin Center,Anna Nagar,Madurai,4.5,1373,5159,Rava Dosa,Breakfast,45,Veg,4.5,1373
+TF1014,Royal Veg Plaza,Tiffin Center,Anna Nagar,Madurai,4.5,1373,5160,Dosa,Breakfast,43,Veg,4.5,1373
+TF1015,Krishna Bhavan,Tiffin Center,Anna Nagar,Madurai,4,4700,5161,Rava Dosa,Breakfast,54,Veg,4,4700
+TF1015,Krishna Bhavan,Tiffin Center,Anna Nagar,Madurai,4,4700,5162,Kesari,Breakfast,24,Veg,4,4700
+TF1015,Krishna Bhavan,Tiffin Center,Anna Nagar,Madurai,4,4700,5163,Poori,Breakfast,33,Veg,4,4700
+TF1015,Krishna Bhavan,Tiffin Center,Anna Nagar,Madurai,4,4700,5164,Dosa,Breakfast,47,Veg,4,4700
+TF1015,Krishna Bhavan,Tiffin Center,Anna Nagar,Madurai,4,4700,5165,Pongal,Breakfast,50,Veg,4,4700
+TF1015,Krishna Bhavan,Tiffin Center,Anna Nagar,Madurai,4,4700,5166,Ghee Roast,Breakfast,69,Veg,4,4700
+TF1015,Krishna Bhavan,Tiffin Center,Anna Nagar,Madurai,4,4700,5167,Vada,Breakfast,15,Veg,4,4700
+TF1015,Krishna Bhavan,Tiffin Center,Anna Nagar,Madurai,4,4700,5168,Idli,Breakfast,14,Veg,4,4700
+TF1015,Krishna Bhavan,Tiffin Center,Anna Nagar,Madurai,4,4700,5169,Masala Dosa,Breakfast,60,Veg,4,4700
+TF1015,Krishna Bhavan,Tiffin Center,Anna Nagar,Madurai,4,4700,5170,Filter Coffee,Breakfast,24,Veg,4,4700
+TF1016,Ganapathy Tiffin,Tiffin Center,Kalavasal,Madurai,4.3,1008,5171,Idli,Breakfast,11,Veg,4.3,1008
+TF1016,Ganapathy Tiffin,Tiffin Center,Kalavasal,Madurai,4.3,1008,5172,Pongal,Breakfast,56,Veg,4.3,1008
+TF1016,Ganapathy Tiffin,Tiffin Center,Kalavasal,Madurai,4.3,1008,5173,Rava Dosa,Breakfast,46,Veg,4.3,1008
+TF1016,Ganapathy Tiffin,Tiffin Center,Kalavasal,Madurai,4.3,1008,5174,Filter Coffee,Breakfast,22,Veg,4.3,1008
+TF1016,Ganapathy Tiffin,Tiffin Center,Kalavasal,Madurai,4.3,1008,5175,Dosa,Breakfast,44,Veg,4.3,1008
+TF1016,Ganapathy Tiffin,Tiffin Center,Kalavasal,Madurai,4.3,1008,5176,Masala Dosa,Breakfast,59,Veg,4.3,1008
+TF1016,Ganapathy Tiffin,Tiffin Center,Kalavasal,Madurai,4.3,1008,5177,Vada,Breakfast,17,Veg,4.3,1008
+TF1016,Ganapathy Tiffin,Tiffin Center,Kalavasal,Madurai,4.3,1008,5178,Kesari,Breakfast,31,Veg,4.3,1008
+TF1016,Ganapathy Tiffin,Tiffin Center,Kalavasal,Madurai,4.3,1008,5179,Ghee Roast,Breakfast,70,Veg,4.3,1008
+TF1016,Ganapathy Tiffin,Tiffin Center,Kalavasal,Madurai,4.3,1008,5180,Poori,Breakfast,39,Veg,4.3,1008
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5181,Ghee Roast,Breakfast,77,Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5182,Filter Coffee,Breakfast,16,Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5183,Idli,Breakfast,14,Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5184,Rava Dosa,Breakfast,49,Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5185,Kesari,Breakfast,33,Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5186,Masala Dosa,Breakfast,67,Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5187,Pongal,Breakfast,51,Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5188,Dosa,Breakfast,42,Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5189,Vada,Breakfast,15,Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5190,Poori,Breakfast,34,Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5191,Egg Parotta,Breakfast,41,Non-Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5192,Mutton Curry Dosai,Breakfast,137,Non-Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5193,Nattu Kozhi Kuzhambu,Breakfast,162,Non-Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5194,Omelette,Breakfast,23,Non-Veg,3.9,2557
+TF1017,Hotel Supreme Veg,Tiffin Center,KK Nagar,Madurai,3.9,2557,5195,Mutton Kari Dosa,Breakfast,131,Non-Veg,3.9,2557
+TF1018,Meenakshi Tiffin Park,Tiffin Center,Simmakkal,Madurai,3.7,3161,5196,Kesari,Breakfast,32,Veg,3.7,3161
+TF1018,Meenakshi Tiffin Park,Tiffin Center,Simmakkal,Madurai,3.7,3161,5197,Ghee Roast,Breakfast,65,Veg,3.7,3161
+TF1018,Meenakshi Tiffin Park,Tiffin Center,Simmakkal,Madurai,3.7,3161,5198,Dosa,Breakfast,38,Veg,3.7,3161
+TF1018,Meenakshi Tiffin Park,Tiffin Center,Simmakkal,Madurai,3.7,3161,5199,Poori,Breakfast,32,Veg,3.7,3161
+TF1018,Meenakshi Tiffin Park,Tiffin Center,Simmakkal,Madurai,3.7,3161,5200,Pongal,Breakfast,40,Veg,3.7,3161
+TF1018,Meenakshi Tiffin Park,Tiffin Center,Simmakkal,Madurai,3.7,3161,5201,Filter Coffee,Breakfast,19,Veg,3.7,3161
+TF1018,Meenakshi Tiffin Park,Tiffin Center,Simmakkal,Madurai,3.7,3161,5202,Idli,Breakfast,13,Veg,3.7,3161
+TF1018,Meenakshi Tiffin Park,Tiffin Center,Simmakkal,Madurai,3.7,3161,5203,Masala Dosa,Breakfast,67,Veg,3.7,3161
+TF1018,Meenakshi Tiffin Park,Tiffin Center,Simmakkal,Madurai,3.7,3161,5204,Vada,Breakfast,14,Veg,3.7,3161
+TF1018,Meenakshi Tiffin Park,Tiffin Center,Simmakkal,Madurai,3.7,3161,5205,Rava Dosa,Breakfast,41,Veg,3.7,3161
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5206,Pongal,Breakfast,45,Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5207,Dosa,Breakfast,35,Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5208,Filter Coffee,Breakfast,24,Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5209,Ghee Roast,Breakfast,70,Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5210,Vada,Breakfast,12,Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5211,Masala Dosa,Breakfast,58,Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5212,Kesari,Breakfast,26,Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5213,Rava Dosa,Breakfast,47,Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5214,Idli,Breakfast,15,Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5215,Poori,Breakfast,34,Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5216,Mutton Kari Dosa,Breakfast,154,Non-Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5217,Egg Dosa,Breakfast,53,Non-Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5218,Nattu Kozhi Kuzhambu,Breakfast,136,Non-Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5219,Chicken Dosa,Breakfast,97,Non-Veg,4,2472
+TF1019,Sri Sai Sangeetha,Tiffin Center,Kalavasal,Madurai,4,2472,5220,Chicken Kothu Parotta,Breakfast,113,Non-Veg,4,2472
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5221,Pongal,Breakfast,55,Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5222,Poori,Breakfast,35,Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5223,Rava Dosa,Breakfast,54,Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5224,Dosa,Breakfast,42,Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5225,Filter Coffee,Breakfast,23,Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5226,Masala Dosa,Breakfast,60,Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5227,Vada,Breakfast,17,Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5228,Idli,Breakfast,14,Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5229,Ghee Roast,Breakfast,68,Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5230,Kesari,Breakfast,25,Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5231,Mutton Curry Dosai,Breakfast,127,Non-Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5232,Bun Omelette,Breakfast,48,Non-Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5233,Chicken 65,Breakfast,117,Non-Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5234,Omelette,Breakfast,27,Non-Veg,4.4,2366
+TF1020,Thalappakatti Tiffin House,Tiffin Center,Kalavasal,Madurai,4.4,2366,5235,Egg Dosa,Breakfast,51,Non-Veg,4.4,2366
