@@ -5,7 +5,7 @@ from datetime import datetime
 import plotly.express as px
 
 # Load data
-df = pd.read_csv('D:/foodans/modified_madurai_food_shops.csv')
+df = pd.read_csv('modified_madurai_food_shops.csv')
 df = df.dropna()
 
 # Score for ranking
