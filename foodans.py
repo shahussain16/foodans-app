@@ -26,7 +26,7 @@ current_time = datetime.now().strftime("%I:%M %p, Madurai Time")  # e.g., "03:45
 st.markdown(f"<p style='text-align: center; color: #555;'>Welcome to Madurai, the city famed for its spicy Jigarthanda, sizzling non-veg biryanis, and mouthwatering street food varieties—let’s hunt, less go! 🥰 | Current Time: {current_time}</p>", unsafe_allow_html=True)
 
 # Load and display Madurai image from local disk with corrected path
-image_path = r'D:/foodans/img/Madurai.webp'  # Use raw string for Windows path
+image_path = r'img/Madurai.webp'  # Use raw string for Windows path
 try:
     st.image(image_path, caption="Madurai’s Vibrant Food Scene", use_container_width=True)
 except FileNotFoundError:
