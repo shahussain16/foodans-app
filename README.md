@@ -1,4 +1,5 @@
 🥘 Foodaans
+
 Foodaans is a Streamlit-powered food recommendation web app that helps users discover the best vendors and dishes across Madurai! 🚀🍛
 
 Built with ❤️ to support small-scale food vendors through smart recommendations and insights.
