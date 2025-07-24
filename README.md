@@ -1,4 +1,9 @@
-🥘 Foodaans
+
+
+
+🥘 Foodaans 
+
+APP LINK:https://foodans-app-avqch8enjydrwheipzg8yn.streamlit.app/
 
 Foodaans is a Streamlit-powered food recommendation web app that helps users discover the best vendors and dishes across Madurai! 🚀🍛
 
